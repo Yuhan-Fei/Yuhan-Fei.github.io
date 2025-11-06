@@ -59,7 +59,7 @@ redirect_from:
 12.	Shukla A*, Yan J*, Pagano D J, Dodson A E, <b>Fei Y</b>, Gorham J, Seidman J G, Wickens M, Kennedy S #. poly(UG)-tailed RNAs in genome protection and epigenetic inheritance. <b><i>Nature</i></b>, 582(7811): 283–288, 2020.
 13.	Wan G, Bajaj L, Fields B, Dodson A E, Pagano D J, <b>Fei Y</b>, Kennedy S #. ZSP-1 is a Z Granule Surface Protein Required for Z Granule Fluidity and Germline Immortality in C. elegans. <b><i>EMBO Journal</i></b>, 40(3): e105612, 2021.
 
-获奖情况
+获奖情况（部分）
 ======
 1. 2023年 清华大学第三届“生命科学、医学、药学”博士后论坛，最佳报告人
 2. 2023年 清华大学第三届“生命科学、医学、药学”博士后论坛，最佳墙报
