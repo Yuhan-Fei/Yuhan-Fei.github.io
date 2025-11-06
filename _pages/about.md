@@ -1,13 +1,20 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Dr. Yuhan Fei"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
+Dr. Yuhan Fei is a Professor and doctoral supervisor at the School of Pharmacy, China Pharmaceutical University, and the Principal Investigator of the AI-driven Drug Discovery Laboratory. He was selected for the Leading Scholar Talent Program of China Pharmaceutical University. Dr. Fei received his Ph.D. degree from Nanjing Agricultural University in 2020, during which he conducted joint doctoral research in Scott Kennedy's group at Harvard Medical School from 2018 to 2020. From 2020 to 2025, he pursued postdoctoral research in Qiangfeng Cliff Zhang’s group at Tsinghua University. In 2025, Dr. Fei joined China Pharmaceutical University to establish the AI-driven Drug Discovery Laboratory, supported by the China Pharmaceutical University’s high-level talent program.
+
+With an interdisciplinary background spanning computer science, bioinformatics, and biology, Dr. Fei’s research lies at the intersection of artificial intelligence and biomedicine. He integrates computational (dry-lab) and experimental (wet-lab) approaches to develop AI-driven frameworks for drug discovery and validation, aiming to accelerate the discovery and functional characterization of novel therapeutics for cancer and other diseases.
+
+<!--
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
+-->
+
 
  You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
 
