@@ -48,7 +48,7 @@ Honors and Awards
 7. Presidential Scholarship, Nanjing Agricultural University, 2018
 8. Zhongshan Scholar Research Star Award, Nanjing Agricultural University, 2018
 9. First-Class Academic Scholarship for Doctoral Students, Nanjing Agricultural University, 2016, 2017, and 2018
-10. First-Class Academic Scholarship for Master's Students, Nanjing Agricultural University, 2014 and 2015
+10. First-Class Academic Scholarship for Students, Nanjing Agricultural University, 2014 and 2015
 
 
 Positions
