@@ -38,9 +38,9 @@ redirect_from:
 ======
 *: Co-first author, #: Co-corresponding author
 
-1. <b>Fei Y</b>*, Wang P*, Zhang J*, Shan X, Cai Z, Ma J, Wang Y#, Zhang Q#. Predicting small molecule–RNA interactions without RNA tertiary structures. Nature Biotechnology, 2025.
-2. Mu K*, <b>Fei Y</b>*, #, Xu Y, Zhang Q#. RASP v2.0: an updated atlas for RNA structure probing data. Nucleic Acids Research, 2024, 53(D1): D211–D219.
-3. Zhang J*, <b>Fei Y</b>*, Sun L#, Zhang Q#. Advances and opportunities in RNA structure experimental determination and computational modeling. Nature Methods, 2022, 19(10): 1193–1207.
+1. <b>Fei Y</b> *, Wang P *, Zhang J *, Shan X, Cai Z, Ma J, Wang Y#, Zhang Q#. Predicting small molecule–RNA interactions without RNA tertiary structures. Nature Biotechnology, 2025.
+2. Mu K *, <b>Fei Y</b> *, #, Xu Y, Zhang Q#. RASP v2.0: an updated atlas for RNA structure probing data. Nucleic Acids Research, 2024, 53(D1): D211–D219.
+3. Zhang J *, <b>Fei Y</b> *, Sun L#, Zhang Q#. Advances and opportunities in RNA structure experimental determination and computational modeling. Nature Methods, 2022, 19(10): 1193–1207.
 4.	<b>Fei Y</b>, Feng J, Wang R, Zhang B, Zhang H, Huang J#. PhasiRNAnalyzer: an integrated analyser for plant phased siRNA. RNA Biology, 2021, 18(11): 1622–1629.
 5.	<b>Fei Y</b>, Mao Y, Shen C, Wang R, Zhang H, Huang J#. WPMIAS: Whole-degradome-based Plant MicroRNA-target Interaction Analysis Server. Bioinformatics, 2020, 36(6): 1937–1939.
 6.	<b>Fei Y</b>, Wang R, Li H, Liu S, Zhang H, Huang J#. DPMIND: degradome-based plant miRNA-target interaction and network database. Bioinformatics, 2018, 34(9): 1618–1620.
