@@ -30,7 +30,7 @@ Fundings
 1. National Natural Science Foundation of China, 2022-2025
 2. Beijing Natural Science Foundation, 2023-2025
 3. China Postdoctoral Science Foundation, 2022-2024
-4. China Pharmaceutical University’s Leading Scholor Talent Program, 2025-Present
+4. China Pharmaceutical University’s Leading Scholor Talent Project, 2025-Present
 
 Patents
 ======
