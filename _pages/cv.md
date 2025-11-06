@@ -38,20 +38,19 @@ redirect_from:
 ======
 *: Co-first author, #: Co-corresponding author
 
-1. <b>Fei Y</b> *, Wang P *, Zhang J *, Shan X, Cai Z, Ma J, Wang Y#, Zhang Q#. Predicting small molecule–RNA interactions without RNA tertiary structures. <b><i>Nature Biotechnology</i></b>, 2025.
-2. Mu K *, <b>Fei Y</b> *, #, Xu Y, Zhang Q#. RASP v2.0: an updated atlas for RNA structure probing data. <b><i>Nucleic Acids Research</i></b>, 2024, 53(D1): D211–D219.
-3. Zhang J *, <b>Fei Y</b> *, Sun L#, Zhang Q#. Advances and opportunities in RNA structure experimental determination and computational modeling. <b><i>Nature Methods</i></b>, 2022, 19(10): 1193–1207.
-4.	<b>Fei Y</b>, Feng J, Wang R, Zhang B, Zhang H, Huang J#. PhasiRNAnalyzer: an integrated analyser for plant phased siRNA. <b><i>RNA Biology</i></b>, 2021, 18(11): 1622–1629.
-5.	<b>Fei Y</b>, Mao Y, Shen C, Wang R, Zhang H, Huang J#. WPMIAS: Whole-degradome-based Plant MicroRNA-target Interaction Analysis Server. <b><i>Bioinformatics</i></b>, 2020, 36(6): 1937–1939.
-6.	<b>Fei Y</b>, Wang R, Li H, Liu S, Zhang H, Huang J#. DPMIND: degradome-based plant miRNA-target interaction and network database. <b><i>Bioinformatics</i></b>, 2018, 34(9): 1618–1620.
-7.	Zhang B, <b>Fei Y</b>, Feng J, Zhu X, Wang R, Xiao H, Zhang H, Huang J#. RiceNCexp: a rice non-coding RNA co-expression atlas based on massive RNA-seq and small-RNA seq data. <b><i>Journal of Experimental Botany</i></b>, 2022, 73(18): 6068–6077.
-8.	Wan G, Yan J, <b>Fei Y</b>, Pagano D J, Kennedy S#. A Conserved NRDE-2/MTR-4 Complex Mediates Nuclear RNAi in C. elegans. <b><i>Genetics</i></b>, 2020, 216(4): 1071-1085.
-9.	Wang R, Yang Z, <b>Fei Y</b>, Feng J, Zhu H, Huang F, Zhang H, Huang J#. Construction and analysis of degradome-dependent microRNA regulatory networks in soybean. <b><i>BMC Genomics</i></b>, 2019, 20(1): 534.
-10.	Feng Z, Feng J, Zhang B, <b>Fei Y</b>, Zhang, H, Huang J#. PhasiHunter: a robust phased siRNA regulatory cascade mining tool based on multiple reference sequences. <b><i>Bioinformatics</i></b>, 2023, 39(11): btad676.
-11.	Shi B *, An K *, Wang Y, <b>Fei Y</b>, Guo C, Zhang Q, Yang Y, Tian X, Kan Q#. RNA structural dynamics modulate EGFR-TKI resistance through controlling YRDC translation in NSCLC cells. <b><i>Genomics, Proteomics & Bioinformatics</i></b>, 2022, 21(4): 850–865.
-12.	Shukla A*, Yan J*, Pagano D J, Dodson A E, <b>Fei Y</b>, Gorham J, Seidman J G, Wickens M, Kennedy S#. poly(UG)-tailed RNAs in genome protection and epigenetic inheritance. <b><i>Nature</i></b>, 2020, 582(7811): 283–288.
-13.	Wan G, Bajaj L, Fields B, Dodson A E, Pagano D J, <b>Fei Y</b>, Kennedy S#. ZSP-1 is a Z Granule Surface Protein Required for Z Granule Fluidity and Germline Immortality in C. elegans. <b><i>EMBO Journal</i></b>, 2021, 40(3): e105612.
-
+1. <b>Fei Y</b> *, Wang P *, Zhang J *, Shan X, Cai Z, Ma J, Wang Y #, Zhang Q #. Predicting small molecule–RNA interactions without RNA tertiary structures. <b><i>Nature Biotechnology</i></b>, 2025.
+2. Mu K *, <b>Fei Y</b> *, #, Xu Y, Zhang Q #. RASP v2.0: an updated atlas for RNA structure probing data. <b><i>Nucleic Acids Research</i></b>, 2024, 53(D1): D211–D219.
+3. Zhang J *, <b>Fei Y</b> *, Sun L#, Zhang Q #. Advances and opportunities in RNA structure experimental determination and computational modeling. <b><i>Nature Methods</i></b>, 2022, 19(10): 1193–1207.
+4.	<b>Fei Y</b>, Feng J, Wang R, Zhang B, Zhang H, Huang J #. PhasiRNAnalyzer: an integrated analyser for plant phased siRNA. <b><i>RNA Biology</i></b>, 2021, 18(11): 1622–1629.
+5.	<b>Fei Y</b>, Mao Y, Shen C, Wang R, Zhang H, Huang J #. WPMIAS: Whole-degradome-based Plant MicroRNA-target Interaction Analysis Server. <b><i>Bioinformatics</i></b>, 2020, 36(6): 1937–1939.
+6.	<b>Fei Y</b>, Wang R, Li H, Liu S, Zhang H, Huang J #. DPMIND: degradome-based plant miRNA-target interaction and network database. <b><i>Bioinformatics</i></b>, 2018, 34(9): 1618–1620.
+7.	Zhang B, <b>Fei Y</b>, Feng J, Zhu X, Wang R, Xiao H, Zhang H, Huang J #. RiceNCexp: a rice non-coding RNA co-expression atlas based on massive RNA-seq and small-RNA seq data. <b><i>Journal of Experimental Botany</i></b>, 2022, 73(18): 6068–6077.
+8.	Wan G, Yan J, <b>Fei Y</b>, Pagano D J, Kennedy S #. A Conserved NRDE-2/MTR-4 Complex Mediates Nuclear RNAi in C. elegans. <b><i>Genetics</i></b>, 2020, 216(4): 1071-1085.
+9.	Wang R, Yang Z, <b>Fei Y</b>, Feng J, Zhu H, Huang F, Zhang H, Huang J #. Construction and analysis of degradome-dependent microRNA regulatory networks in soybean. <b><i>BMC Genomics</i></b>, 2019, 20(1): 534.
+10.	Feng Z, Feng J, Zhang B, <b>Fei Y</b>, Zhang, H, Huang J #. PhasiHunter: a robust phased siRNA regulatory cascade mining tool based on multiple reference sequences. <b><i>Bioinformatics</i></b>, 2023, 39(11): btad676.
+11.	Shi B *, An K *, Wang Y, <b>Fei Y</b>, Guo C, Zhang Q, Yang Y, Tian X, Kan Q #. RNA structural dynamics modulate EGFR-TKI resistance through controlling YRDC translation in NSCLC cells. <b><i>Genomics, Proteomics & Bioinformatics</i></b>, 2022, 21(4): 850–865.
+12.	Shukla A*, Yan J*, Pagano D J, Dodson A E, <b>Fei Y</b>, Gorham J, Seidman J G, Wickens M, Kennedy S #. poly(UG)-tailed RNAs in genome protection and epigenetic inheritance. <b><i>Nature</i></b>, 2020, 582(7811): 283–288.
+13.	Wan G, Bajaj L, Fields B, Dodson A E, Pagano D J, <b>Fei Y</b>, Kennedy S #. ZSP-1 is a Z Granule Surface Protein Required for Z Granule Fluidity and Germline Immortality in C. elegans. <b><i>EMBO Journal</i></b>, 2021, 40(3): e105612.
 
 
 获奖情况
