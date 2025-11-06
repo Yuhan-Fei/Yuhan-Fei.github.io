@@ -29,23 +29,50 @@ redirect_from:
 2. 北京市自然科学基金-面上专项项目，2023-2025（已结题）
 3. 中国博士后科学基金-第69批面上资助，2022-2024（已结题）
 
+发明专利
+======
+1. 国家自然科学基金-青年科学基金项目, 2022-2025（已结题）
+2. 北京市自然科学基金-面上专项项目，2023-2025（已结题）
+
+论文发表(部分)
+======
+1.<b>Fei Y</b>*, Wang P*, Zhang J*, Shan X, Cai Z, Ma J, Wang Y#, Zhang Q#. Predicting small molecule and RNA target interactions using deep neural networks. Nature Biotechnology, 2025 
+2. Mu K*, <b>Fei Y</b>*, #, Xu Y, Zhang Q#. RASP v2.0: an updated atlas for RNA structure probing data. Nucleic Acids Research, 2024, 53(D1): D211–D219. (*: Co-first author, #: Co-corresponding author)
+3. Zhang J*, <b>Fei Y</b>*, Sun L#, Zhang Q#. Advances and opportunities in RNA structure experimental determination and computational modeling. Nature Methods, 2022, 19(10): 1193–1207.
+4.	<b>Fei Y</b>, Feng J, Wang R, Zhang B, Zhang H, Huang J#. PhasiRNAnalyzer: an integrated analyser for plant phased siRNA. RNA Biology, 2021, 18(11): 1622–1629.
+5.	<b>Fei Y</b>, Mao Y, Shen C, Wang R, Zhang H, Huang J#. WPMIAS: Whole-degradome-based Plant MicroRNA-target Interaction Analysis Server. Bioinformatics, 2020, 36(6): 1937–1939.
+6.	<b>Fei Y</b>, Wang R, Li H, Liu S, Zhang H, Huang J#. DPMIND: degradome-based plant miRNA-target interaction and network database. Bioinformatics, 2018, 34(9): 1618–1620.
+7.	Zhang B, <b>Fei Y</b>, Feng J, Zhu X, Wang R, Xiao H, Zhang H, Huang J#. RiceNCexp: a rice non-coding RNA co-expression atlas based on massive RNA-seq and small-RNA seq data. Journal of Experimental Botany, 2022, 73(18): 6068–6077.
+8.	Wan G, Yan J, <b>Fei Y</b>, Pagano D J, Kennedy S#. A Conserved NRDE-2/MTR-4 Complex Mediates Nuclear RNAi in C. elegans. Genetics, 2020, 216(4): 1071-1085.
+9.	Wang R, Yang Z, <b>Fei Y</b>, Feng J, Zhu H, Huang F, Zhang H, Huang J#. Construction and analysis of degradome-dependent microRNA regulatory networks in soybean. BMC Genomics, 2019, 20(1): 534.
+10.	Feng Z, Feng J, Zhang B, <b>Fei Y</b>, Zhang, H, Huang J#. PhasiHunter: a robust phased siRNA regulatory cascade mining tool based on multiple reference sequences. Bioinformatics, 2023, 39(11): btad676.
+11.	Shi B*, An K*, Wang Y, <b>Fei Y</b>, Guo C, Zhang Q, Yang Y, Tian X, Kan Q#. RNA structural dynamics modulate EGFR-TKI resistance through controlling YRDC translation in NSCLC cells. Genomics Proteomics Bioinformatics, 2022, 21(4): 850–865.
+12.	Shukla A*, Yan J*, Pagano D J, Dodson A E, <b>Fei Y</b>, Gorham J, Seidman J G, Wickens M, Kennedy S#. poly(UG)-tailed RNAs in genome protection and epigenetic inheritance. Nature, 2020, 582(7811): 283–288.
+13.	Wan G, Bajaj L, Fields B, Dodson A E, Pagano D J, <b>Fei Y</b>, Kennedy S#. ZSP-1 is a Z Granule Surface Protein Required for Z Granule Fluidity and Germline Immortality in C. elegans. EMBO Journal, 2021, 40(3): e105612.
+
+*: Co-first author, #: Co-corresponding author
+
+
 获奖情况
 ======
 1. 2023年 清华大学第三届“生命科学、医学、药学”博士后论坛，最佳报告人
 2. 2023年 清华大学第三届“生命科学、医学、药学”博士后论坛，最佳墙报
 3. 2023年 冷泉港亚洲 “RNA疗法的现状与未来”会议，墙报金奖
-4. 2020年 南京农业大学，优秀毕业论文
-5. 2019年 南京农业大学，优秀毕业生
-6. 2019年 南京农业大学，博士学位论文创新工程，I类 
-7. 2018年 南京农业大学，校长奖学金
-8. 2018年 南京农业大学，钟山学子科研之星
-9. 2016，2017，2018年 南京农业大学，博士研究生学业奖学金一等奖
-10. 2014，2015年 南京农业大学，硕士研究生学业奖学金一等奖
+4. 2023年 第一批清华-北大联合中心博士后基金，优秀博士后基金
+5. 2021年 第一批清华-北大联合中心博士后基金-，杰出博士后基金
+6. 2020年 南京农业大学，优秀毕业论文
+7. 2019年 南京农业大学，优秀毕业生
+8. 2019年 南京农业大学，博士学位论文创新工程，I类 
+9. 2018年 南京农业大学，校长奖学金
+10. 2018年 南京农业大学，钟山学子科研之星
+11. 2016，2017，2018年 南京农业大学，博士研究生学业奖学金一等奖
+12. 2014，2015年 南京农业大学，硕士研究生学业奖学金一等奖
 
 其他任职情况
 ======
 1. 2023年-现在 中国生物信息学，基因组信息学专委会和人工智能与生命科学专委会，青年委员
 2. 2015-2016年 南京农业大学，信息科学技术学院(现人工智能学院)，研究生会主席
+
 
 <!--
 Talks
