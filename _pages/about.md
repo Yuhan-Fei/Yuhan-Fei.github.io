@@ -9,10 +9,10 @@ redirect_from:
 Personal Profile
 ======
 <p align="justify" >
-Dr. Yuhan Fei, born in 1992 in Nanjing, is a Professor at the School of Pharmacy, China Pharmaceutical University, and the Principal Investigator of the AI-driven Drug Discovery Laboratory. He was selected for the Leading Scholar Talent Program of China Pharmaceutical University. Dr. Fei achieved his Ph.D. degree from Nanjing Agricultural University in 2020, during which he conducted joint doctoral research in Scott Kennedy's group at Harvard Medical School from 2018 to 2020. From 2020 to 2025, he pursued postdoctoral research in Qiangfeng Cliff Zhang’s group at Tsinghua University. In 2025, Dr. Fei joined China Pharmaceutical University as to establish the AI-driven Drug Discovery Laboratory. Dr. Fei has an interdisciplinary educational background spanning Computer Science and Technology, Bioinformatics, and Biology. His research focuses on the intersection of artificial intelligence and biomedicine. 
+Dr. Yuhan Fei, born in 1992 in Nanjing, is a Professor at China Pharmaceutical University and the Principal Investigator of the AI-driven Drug Discovery Laboratory. He was selected for the Leading Scholar Talent Program of China Pharmaceutical University. Dr. Fei obtained his Ph.D. degree from Nanjing Agricultural University in 2020, during which he conducted joint doctoral research program in Scott Kennedy's group at Harvard Medical School from 2018 to 2020. From 2020 to 2025, he pursued postdoctoral research in Qiangfeng Cliff Zhang’s group at Tsinghua University. In 2025, Dr. Fei joined the School of Pharmacy, China Pharmaceutical University, to establish the AI-driven Drug Discovery Laboratory. Dr. Fei has an interdisciplinary educational background spanning Computer Science and Technology, Bioinformatics, and Biology. His research focuses on the intersection of artificial intelligence and biomedicine. 
 </p>
 <p align="justify" >
-As the first/corresponding author, Dr. Fei has published papers in Nature Biotechnology (2025), Nature Methods (2022), Nucleic Acids Research (2025), Bioinformatics (2018, 2020), and RNA Biology (2021), <i>etc</i>. As a co-author, Dr. Fei has contributed to papers published in Nature (2020), EMBO Journal (2021), Genomics, Proteomics & Bioinformatics (2022), Bioinformatics (2023), and Genetics (2020), <i>etc</i>. Dr. Fei has also filed two patent applications (2017, 2025).
+As the first/corresponding author, Dr. Fei has published papers in Nature Biotechnology (2025), Nature Methods (2022), Nucleic Acids Research (2025), Bioinformatics (2018, 2020), and RNA Biology (2021), <i>etc</i>. As a co-author, Dr. Fei has contributed to papers published in Nature (2020), EMBO Journal (2021), Genomics, Proteomics & Bioinformatics (2022), Bioinformatics (2023), and Genetics (2020), <i>etc</i>. To date, Dr. Fei has published over ten academic papers, with a total impact factor exceeding 240.
 </p>
 
 Research Interests
@@ -31,6 +31,11 @@ Fundings
 2. Beijing Natural Science Foundation, 2023-2025
 3. China Postdoctoral Science Foundation, 2022-2024
 4. China Pharmaceutical University’s Leading Scholor Talent Program, 2025-Present
+
+Patents
+======
+1. Methods, Systems, Storage Media, and Devices for Predicting the Interaction between Small Molecules and RNA, CN120199320A, 2025
+2. Particle Swarm Optimization Algorithm with Cross-Border Reset Mechanism, CN106845629A, 2017
 
 Honors and Awards
 ======
