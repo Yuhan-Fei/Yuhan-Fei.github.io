@@ -1,6 +1,6 @@
----
+<img width="432" height="349" alt="image" src="https://github.com/user-attachments/assets/51429166-9c52-43ea-91f6-1e79d68e22d0" /><img width="432" height="122" alt="image" src="https://github.com/user-attachments/assets/6eb20225-e686-4f9b-9d4c-f847c4effcf9" />---
 layout: archive
-title: "CV"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,44 +9,43 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+个人简介
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+费宇涵，中国药科大学药学院教授，博士生导师，人工智能药物研发课题组独立PI，入选中国药科大学兴药领军学者人才计划。2020年毕业于南京农业大学，2018-2020于哈佛医学院博士联合培养，2020-2025年于清华大学张强锋课题组从事博士后研究，2025年正式加入中国药科大学，成立人工智能药物研发实验室并担任课题组组长，获得学校高层次人才计划支持。费宇涵博士拥有计算机科学与技术、生物信息学、生物学等多学科专业背景，研究方向聚焦于“人工智能+生物医药”前沿交叉领域，长期致力于人工智能驱动的药物研发及功能验证。主持国家自然科学基金（2022-2025）、北京市自然科学基金（2023-2025）、中国博士后科学基金（2022-2024）等项目。以第一/通讯作者（含共同）在Nature Biotechnology (2025)、Nature Methods (2022)、Nucleic Acids Research (2025)、Bioinformatics (2018, 2020)、RNA Biology(2021)等国际期刊上发表论文，并以合作者在 Nature (2020)、EMBO Journal (2021)、Genomics, Proteomics & Bioinformatics (2022)、Bioinformatics (2023)、Genetics (2020)等国际期刊上发表论文，申请专利发明2项（2017，2025）。
 
-Work experience
+研究方向
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+费课题组主要聚焦于“人工智能+生物医药”的交叉领域研究，致力于结合人工智能、生物信息学、分子和细胞生物学、生物物理学等干湿结合的研究手段解决生物医药领域的重要问题，研究方向主要包括但不限于：
+1. 靶向RNA的小分子药物的开发
+2. mRNA疫苗的优化与设计
+3. 多肽类药物的设计与临床转化
+4.人工智能虚拟细胞的建模及应用
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
+主持基金
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+● 国家自然科学基金-青年科学基金项目, 2022-2025（已结题）
+● 北京市自然科学基金-面上专项项目，2023-2025（已结题）
+● 中国博士后科学基金-第69批面上资助，2022-2024（已结题）
 
-Publications
+获奖情况
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+● 2023年 清华大学第三届“生命科学、医学、药学”博士后论坛，最佳报告人
+● 2023年 清华大学第三届“生命科学、医学、药学”博士后论坛，最佳墙报
+● 2023年 冷泉港亚洲 “RNA疗法的现状与未来”会议，墙报金奖
+● 2020年 南京农业大学，优秀毕业论文
+● 2019年 南京农业大学，优秀毕业生
+● 2019年 南京农业大学，博士学位论文创新工程，I类 
+● 2018年 南京农业大学，校长奖学金
+● 2018年 南京农业大学，钟山学子科研之星
+● 2016，2017，2018年 南京农业大学，博士研究生学业奖学金一等奖
+● 2014，2015年 南京农业大学，硕士研究生学业奖学金一等奖
+
+任职情况
+======
+● 2023年 中国生物信息学，基因组信息学专委会和人工智能与生命科学专委会，青年委员
+● 2015-2016年 南京农业大学，信息科学技术学院，研究生会主席
+
+<!--
 Talks
 ======
   <ul>{% for post in site.talks reversed %}
@@ -62,3 +61,4 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+-->
