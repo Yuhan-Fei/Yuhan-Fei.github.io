@@ -46,11 +46,10 @@ redirect_from:
 6.	<b>Fei Y</b>, Wang R, Li H, Liu S, Zhang H, Huang J#. DPMIND: degradome-based plant miRNA-target interaction and network database. Bioinformatics, 2018, 34(9): 1618–1620.
 7.	Zhang B, <b>Fei Y</b>, Feng J, Zhu X, Wang R, Xiao H, Zhang H, Huang J#. RiceNCexp: a rice non-coding RNA co-expression atlas based on massive RNA-seq and small-RNA seq data. Journal of Experimental Botany, 2022, 73(18): 6068–6077.
 8.	Wan G, Yan J, <b>Fei Y</b>, Pagano D J, Kennedy S#. A Conserved NRDE-2/MTR-4 Complex Mediates Nuclear RNAi in C. elegans. Genetics, 2020, 216(4): 1071-1085.
-9.	Wang R, Yang Z, <b>Fei Y</b>, Feng J, Zhu H, Huang F, Zhang H, Huang J#. Construction and analysis of degradome-dependent microRNA regulatory networks in soybean. BMC Genomics, 2019, 20(1): 534.
-10.	Feng Z, Feng J, Zhang B, <b>Fei Y</b>, Zhang, H, Huang J#. PhasiHunter: a robust phased siRNA regulatory cascade mining tool based on multiple reference sequences. Bioinformatics, 2023, 39(11): btad676.
-11.	Shi B *, An K *, Wang Y, <b>Fei Y</b>, Guo C, Zhang Q, Yang Y, Tian X, Kan Q#. RNA structural dynamics modulate EGFR-TKI resistance through controlling YRDC translation in NSCLC cells. Genomics Proteomics Bioinformatics, 2022, 21(4): 850–865.
-12.	Shukla A*, Yan J*, Pagano D J, Dodson A E, <b>Fei Y</b>, Gorham J, Seidman J G, Wickens M, Kennedy S#. poly(UG)-tailed RNAs in genome protection and epigenetic inheritance. Nature, 2020, 582(7811): 283–288.
-13.	Wan G, Bajaj L, Fields B, Dodson A E, Pagano D J, <b>Fei Y</b>, Kennedy S#. ZSP-1 is a Z Granule Surface Protein Required for Z Granule Fluidity and Germline Immortality in C. elegans. EMBO Journal, 2021, 40(3): e105612.
+9.	Feng Z, Feng J, Zhang B, <b>Fei Y</b>, Zhang, H, Huang J#. PhasiHunter: a robust phased siRNA regulatory cascade mining tool based on multiple reference sequences. Bioinformatics, 2023, 39(11): btad676.
+10.	Shi B *, An K *, Wang Y, <b>Fei Y</b>, Guo C, Zhang Q, Yang Y, Tian X, Kan Q#. RNA structural dynamics modulate EGFR-TKI resistance through controlling YRDC translation in NSCLC cells. Genomics Proteomics Bioinformatics, 2022, 21(4): 850–865.
+11.	Shukla A*, Yan J*, Pagano D J, Dodson A E, <b>Fei Y</b>, Gorham J, Seidman J G, Wickens M, Kennedy S#. poly(UG)-tailed RNAs in genome protection and epigenetic inheritance. Nature, 2020, 582(7811): 283–288.
+12.	Wan G, Bajaj L, Fields B, Dodson A E, Pagano D J, <b>Fei Y</b>, Kennedy S#. ZSP-1 is a Z Granule Surface Protein Required for Z Granule Fluidity and Germline Immortality in C. elegans. EMBO Journal, 2021, 40(3): e105612.
 
 
 
