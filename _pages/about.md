@@ -18,7 +18,7 @@ As the first/corresponding author, Dr. Fei has published papers in Nature Biotec
 Research Interests
 ======
 <p align="justify" >
-Dr. Fei has an interdisciplinary background spanning computer science, bioinformatics, and biology. His research lies at the intersection of artificial intelligence and biomedicine. He integrates computational (dry-lab) and experimental (wet-lab) approaches to develop AI-driven frameworks for drug discovery and validation, aiming to accelerate the discovery and functional characterization of novel therapeutics for cancer and other diseases. His research primarily focuses on the following four directions:
+Dr. Fei has an interdisciplinary education background spanning <b>Computer Science and Technology</b>, <b>Bioinformatics</b>, and <b>Biology</b>. His research lies at the intersection of artificial intelligence and biomedicine. He combines computational (dry-lab) and experimental (wet-lab) approaches to develop AI-based methods for drug discovery and validation, aiming to accelerate the discovery and functional characterization of novel therapeutics for cancer and other diseases. His research primarily focuses on the following directions:
 </p>
 1. Discovery of RNA-targeting small molecules
 2. Optimization of mRNA vaccines
@@ -33,6 +33,25 @@ Fundings
 
 Honors and Awards
 ======
+1. Best Presenter at the 3rd Postdoctoral Forum on "Life Sciences, Medicine, and Pharmacy" at Tsinghua University, 2023
+2. Best Poster at the 3rd Postdoctoral Forum on "Life Sciences, Medicine, and Pharmacy" at Tsinghua University, 2023
+3. Gold Award for Poster at the Cold Spring Harbor Asia Conference on "RNA Therapeutics: Current Status and Future" 2023
+4. Outstanding Graduate Thesis of Nanjing Agricultural University, 2020
+5. Outstanding Graduate of Nanjing Agricultural University, 2019
+6. Innovation Project for Doctoral Thesis (Class I), Nanjing Agricultural University, 2019
+7. Presidential Scholarship of Nanjing Agricultural University, 2018
+8. Zhongshan Scholar Research Star Award of Nanjing Agricultural University, 2018
+9.First-Class Academic Scholarship for Doctoral Students, Nanjing Agricultural University, 2016, 2017, and 2018
+10. First-Class Academic Scholarship for Master's Students, Nanjing Agricultural University, 2014 and 2015
+11. Outstanding Graduate Student Leader of Nanjing Agricultural University, 2016
+
+Positions
+======
+1. Youth Member of the Committee on Bioinformatics and Genomics & the Committee on Artificial Intelligence and Life Sciences, Bioinformatics Society of China, 2023-Present
+2. Chair of the Graduate Student Association at the College of Information Science and Technology, Nanjing Agricultural University, 2015–2016
+
+
+
 
 
 <!--
