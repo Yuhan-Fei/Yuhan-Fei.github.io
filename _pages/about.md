@@ -9,7 +9,7 @@ redirect_from:
 Personal Profile
 ======
 <p align="justify" >
-Dr. Yuhan Fei is a Professor and doctoral supervisor at the School of Pharmacy, China Pharmaceutical University, and the Principal Investigator of the AI-driven Drug Discovery Laboratory. He was selected for the Leading Scholar Talent Program of China Pharmaceutical University. Dr. Fei received his Ph.D. degree from Nanjing Agricultural University in 2020, during which he conducted joint doctoral research in Scott Kennedy's group at Harvard Medical School from 2018 to 2020. From 2020 to 2025, he pursued postdoctoral research in Qiangfeng Cliff Zhang’s group at Tsinghua University. In 2025, Dr. Fei joined China Pharmaceutical University to establish the AI-driven Drug Discovery Laboratory, supported by the China Pharmaceutical University’s high-level talent program.
+Dr. Yuhan Fei, born in 1992 in Nanjing, is a Professor at the School of Pharmacy, China Pharmaceutical University, and the Principal Investigator of the AI-driven Drug Discovery Laboratory. He was selected for the Leading Scholar Talent Program of China Pharmaceutical University. Dr. Fei achieved his Ph.D. degree from Nanjing Agricultural University in 2020, during which he conducted joint doctoral research in Scott Kennedy's group at Harvard Medical School from 2018 to 2020. From 2020 to 2025, he pursued postdoctoral research in Qiangfeng Cliff Zhang’s group at Tsinghua University. In 2025, Dr. Fei joined China Pharmaceutical University to establish the AI-driven Drug Discovery Laboratory, supported by the university’s high-level talent program.
 </p>
 
 <!--
