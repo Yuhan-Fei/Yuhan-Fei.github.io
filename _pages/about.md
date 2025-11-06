@@ -27,13 +27,13 @@ Dr. Fei has an interdisciplinary education background spanning <b>Computer Scien
 
 Fundings
 ======
-1. National Natural Science Foundation of China, 2022-2025 (Completed)
-2. Beijing Natural Science Foundation, 2023-2025 (Completed)
-3. China Postdoctoral Science Foundation, 2022-2024 (Completed)
+1. National Natural Science Foundation of China, 2022-2025
+2. Beijing Natural Science Foundation, 2023-2025
+3. China Postdoctoral Science Foundation, 2022-2024
+4. China Pharmaceutical University’s Leading Scholor Talent Program, 2025-Present
 
 Honors and Awards
 ======
-<p align="justify">
 1. Best Presenter at the 3rd Postdoctoral Forum on "Life Sciences, Medicine, and Pharmacy" at Tsinghua University, 2023
 2. Best Poster at the 3rd Postdoctoral Forum on "Life Sciences, Medicine, and Pharmacy" at Tsinghua University, 2023
 3. Gold Award for Poster at the Cold Spring Harbor Asia Conference on "RNA Therapeutics: Current Status and Future" 2023
@@ -44,14 +44,12 @@ Honors and Awards
 8. Zhongshan Scholar Research Star Award, Nanjing Agricultural University, 2018
 9. First-Class Academic Scholarship for Doctoral Students, Nanjing Agricultural University, 2016, 2017, and 2018
 10. First-Class Academic Scholarship for Master's Students, Nanjing Agricultural University, 2014 and 2015
-</p>
+
 
 Positions
 ======
-<p align="justify">
 1. Youth Member of the Committee on Bioinformatics and Genomics & the Committee on Artificial Intelligence and Life Sciences, Bioinformatics Society of China, 2023-Present
 2. Chair of the Graduate Student Association at the College of Information Science and Technology, Nanjing Agricultural University, 2015–2016
-</p>
 
 
 
