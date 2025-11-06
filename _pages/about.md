@@ -39,11 +39,11 @@ Honors and Awards
 4. Outstanding Graduate Thesis of Nanjing Agricultural University, 2020
 5. Outstanding Graduate of Nanjing Agricultural University, 2019
 6. Innovation Project for Doctoral Thesis (Class I), Nanjing Agricultural University, 2019
-7. Presidential Scholarship of Nanjing Agricultural University, 2018
-8. Zhongshan Scholar Research Star Award of Nanjing Agricultural University, 2018
-9.First-Class Academic Scholarship for Doctoral Students, Nanjing Agricultural University, 2016, 2017, and 2018
+7. Presidential Scholarship, Nanjing Agricultural University, 2018
+8. Zhongshan Scholar Research Star Award, Nanjing Agricultural University, 2018
+9. First-Class Academic Scholarship for Doctoral Students, Nanjing Agricultural University, 2016, 2017, and 2018
 10. First-Class Academic Scholarship for Master's Students, Nanjing Agricultural University, 2014 and 2015
-11. Outstanding Graduate Student Leader of Nanjing Agricultural University, 2016
+11. Outstanding Graduate Student Leader, Nanjing Agricultural University, 2016
 
 Positions
 ======
