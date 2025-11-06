@@ -20,7 +20,7 @@ Research Interests
 <p align="justify" >
 Dr. Fei has an interdisciplinary background spanning computer science, bioinformatics, and biology. His research lies at the intersection of artificial intelligence and biomedicine. He integrates computational (dry-lab) and experimental (wet-lab) approaches to develop AI-driven frameworks for drug discovery and validation, aiming to accelerate the discovery and functional characterization of novel therapeutics for cancer and other diseases. His research primarily focuses on the following four directions:
 </p>
-1. Discovery of RNA-targeting small molecule drug
+1. Discovery of RNA-targeting small molecules
 2. Optimization of mRNA vaccines
 3. Design of peptide-based drugs
 4. Modeling of AI virtual cells
