@@ -9,27 +9,31 @@ redirect_from:
 Personal Profile
 ======
 <p align="justify" >
-Dr. Yuhan Fei, born in 1992 in Nanjing, is a Professor at the School of Pharmacy, China Pharmaceutical University, and the Principal Investigator of the AI-driven Drug Discovery Laboratory. He was selected for the Leading Scholar Talent Program of China Pharmaceutical University. Dr. Fei achieved his Ph.D. degree from Nanjing Agricultural University in 2020, during which he conducted joint doctoral research in Scott Kennedy's group at Harvard Medical School from 2018 to 2020. From 2020 to 2025, he pursued postdoctoral research in Qiangfeng Cliff Zhang’s group at Tsinghua University. In 2025, Dr. Fei joined China Pharmaceutical University to establish the AI-driven Drug Discovery Laboratory, supported by the university’s high-level talent program.
+Dr. Yuhan Fei, born in 1992 in Nanjing, is a Professor at the School of Pharmacy, China Pharmaceutical University, and the Principal Investigator of the AI-driven Drug Discovery Laboratory. He was selected for the Leading Scholar Talent Program of China Pharmaceutical University. Dr. Fei achieved his Ph.D. degree from Nanjing Agricultural University in 2020, during which he conducted joint doctoral research in Scott Kennedy's group at Harvard Medical School from 2018 to 2020. From 2020 to 2025, he pursued postdoctoral research in Qiangfeng Cliff Zhang’s group at Tsinghua University. In 2025, Dr. Fei joined China Pharmaceutical University to establish the AI-driven Drug Discovery Laboratory, supported by the university’s high-level talent program.  
 </p>
-
-<!--
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
-
- You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
--->
+<p align="justify" >
+As the first/corresponding author, Dr. Fei has published papers in journals such as Nature Biotechnology (2025), Nature Methods (2022), Nucleic Acids Research (2025), Bioinformatics (2018, 2020), and RNA Biology (2021), etc. As a co-author, Dr. Fei has contributed to papers published in Nature (2020), EMBO Journal (2021), Genomics, Proteomics & Bioinformatics (2022), Bioinformatics (2023), and Genetics (2020), etc. Additionally, Dr. Fei has filed two patent applications (2017, 2025).
+</p>
 
 Research Interests
 ======
 <p align="justify" >
-With an interdisciplinary background spanning computer science, bioinformatics, and biology, Dr. Fei’s research lies at the intersection of artificial intelligence and biomedicine. He integrates computational (dry-lab) and experimental (wet-lab) approaches to develop AI-driven frameworks for drug discovery and validation, aiming to accelerate the discovery and functional characterization of novel therapeutics for cancer and other diseases.  
+Dr. Fei has an interdisciplinary background spanning computer science, bioinformatics, and biology. His research lies at the intersection of artificial intelligence and biomedicine. He integrates computational (dry-lab) and experimental (wet-lab) approaches to develop AI-driven frameworks for drug discovery and validation, aiming to accelerate the discovery and functional characterization of novel therapeutics for cancer and other diseases. His research primarily focuses on the following four directions:
 </p>
-
-His research primarily focuses on the following four directions:  
 1. Discovery of RNA-targeting small molecule drug
 2. Optimization of mRNA vaccines
 3. Design of peptide-based drugs
 4. Modeling of AI virtual cells
-  
+
+Fundings
+======
+1. National Natural Science Foundation of China, 2022-2025 (Completed)
+2. Beijing Natural Science Foundation, 2023-2025 (Completed)
+3. China Postdoctoral Science Foundation, 2022-2024 (Completed)
+
+Honors and Awards
+======
+
 
 <!--
 Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured Markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various Markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
