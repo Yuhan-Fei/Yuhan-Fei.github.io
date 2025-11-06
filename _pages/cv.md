@@ -39,7 +39,7 @@ redirect_from:
 1. 小分子和RNA互作关系的预测方法、系统、存储介质和设备，CN120199320A，2025
 2. 基于越界重置的参数列维化粒子群算法，CN106845629A，2017
 
-论文发表(部分)
+论文发表（部分）
 ======
 *: Co-first author, #: Co-corresponding author
 
