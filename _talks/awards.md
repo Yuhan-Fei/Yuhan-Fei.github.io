@@ -1,7 +1,7 @@
 ---
 title: "Honors & Awards"
 collection: talks
-permalink: /talks/list
+permalink: /talks/awards
 date: 2024-01-01
 ---
 
