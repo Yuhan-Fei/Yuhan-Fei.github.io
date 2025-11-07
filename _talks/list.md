@@ -1,11 +1,11 @@
 ---
-title: "Talk 3 on Relevant Topic in Your Field"
+title: ""
 collection: talks
-type: "Conference proceedings talk"
-permalink: /talks/2014-03-01-talk-3
-venue: "Testing Institute of America 2014 Annual Conference"
+type: ""
+permalink: /talks/list
+venue: ""
 date: 2014-03-01
-location: "Los Angeles, CA, USA"
+location: ""
 ---
 
 1. Best Presenter at the 3rd Postdoctoral Forum on "Life Sciences, Medicine, and Pharmacy" at Tsinghua University, 2023
