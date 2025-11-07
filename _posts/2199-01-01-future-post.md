@@ -8,4 +8,20 @@ tags:
   - category2
 ---
 
-This post will show up by default. To disable scheduling of future posts, edit `config.yml` and set `future: false`. 
+<!-- This post will show up by default. To disable scheduling of future posts, edit `config.yml` and set `future: false`. -->
+
+岗位职责
+------
+
+
+资格要求
+------
+
+
+岗位待遇
+------
+
+
+申请方式
+------
+
