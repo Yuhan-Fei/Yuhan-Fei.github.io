@@ -18,12 +18,15 @@ As the first/corresponding author, Dr. Fei has published papers in Nature Biotec
 Research Interests
 ======
 <p align="justify">
-Yuhan Fei's group combines computational (dry-lab) and experimental (wet-lab) approaches to develop AI-based methods for drug discovery and validation, aiming to accelerate the discovery and functional characterization of novel therapeutics for cancer and other diseases. His research primarily focuses on the following directions:
+Dr. Fei's group focuses on the frontier intersection of "Artificial Intelligence + Biomedicine", with an emphasis on addressing major global health challenges such as cancer, infectious diseases, and rare diseases, <i>etc</i>. The group is committed to exploring new paradigms in drug discovery and disease treatment. By integrating multidisciplinary approaches, including artificial intelligence, bioinformatics, molecular and cell biology, and biophysics, the group has established a "dry-wet combined" research system to advance the development of new technologies and methods for precision disease prevention and treatment. His group primarily focuses on the following directions:
 </p>
 1. Discovery of RNA-targeting small molecules
 2. Optimization of mRNA vaccines
 3. Design of peptide-based drugs
 4. Modeling of AI virtual cells
+<p align="justify">
+Dr. Fei's group is well-funded and continuously recruits postdoctoral researchers, Doctoral students, master's students, interns, and research assistants. The group has established collaborations with Tsinghua University, Peking University, and Harvard Medical School. Exceptional candidates may be recommended for exchange opportunities. Interested individuals are welcome to join or contact us at fei_yuhan(AT)outlook.com for more information.
+</p>
 
 Fundings
 ======
