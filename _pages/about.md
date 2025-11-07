@@ -18,7 +18,7 @@ As the first/corresponding author, Dr. Fei has published papers in Nature Biotec
 Research Interests
 ======
 <p align="justify">
-Dr. Fei combines computational (dry-lab) and experimental (wet-lab) approaches to develop AI-based methods for drug discovery and validation, aiming to accelerate the discovery and functional characterization of novel therapeutics for cancer and other diseases. His research primarily focuses on the following directions:
+Yuhan Fei's group combines computational (dry-lab) and experimental (wet-lab) approaches to develop AI-based methods for drug discovery and validation, aiming to accelerate the discovery and functional characterization of novel therapeutics for cancer and other diseases. His research primarily focuses on the following directions:
 </p>
 1. Discovery of RNA-targeting small molecules
 2. Optimization of mRNA vaccines
@@ -42,13 +42,15 @@ Honors and Awards
 1. Best Presenter at the 3rd Postdoctoral Forum on "Life Sciences, Medicine, and Pharmacy" at Tsinghua University, 2023
 2. Best Poster at the 3rd Postdoctoral Forum on "Life Sciences, Medicine, and Pharmacy" at Tsinghua University, 2023
 3. Gold Award for Poster at the Cold Spring Harbor Asia Conference on "RNA Therapeutics: Current Status and Future" 2023
-4. Outstanding Graduate Thesis of Nanjing Agricultural University, 2020
-5. Outstanding Graduate of Nanjing Agricultural University, 2019
-6. Innovation Project for Doctoral Thesis (Class I), Nanjing Agricultural University, 2019
-7. Presidential Scholarship, Nanjing Agricultural University, 2018
-8. Zhongshan Scholar Research Star Award, Nanjing Agricultural University, 2018
-9. First-Class Academic Scholarship for Doctoral Students, Nanjing Agricultural University, 2016, 2017, and 2018
-10. First-Class Academic Scholarship for Students, Nanjing Agricultural University, 2014 and 2015
+4. Outstanding Postdoctoral Fellowship, Postdoctoral Foundation of Tsinghua-Peking Center for Life Sciences 2023 
+5. Distinguished Postdoctoral Fellowship, Postdoctoral Foundation of Tsinghua-Peking Center for Life Sciences 2021
+6. Outstanding Graduate Thesis of Nanjing Agricultural University, 2020
+7. Outstanding Graduate of Nanjing Agricultural University, 2019
+8. Innovation Project for Doctoral Thesis (Class I), Nanjing Agricultural University, 2019
+9. Presidential Scholarship, Nanjing Agricultural University, 2018
+10. Zhongshan Scholar Research Star Award, Nanjing Agricultural University, 2018
+11. First-Class Academic Scholarship for Doctoral Students, Nanjing Agricultural University, 2016, 2017, and 2018
+12. First-Class Academic Scholarship for Students, Nanjing Agricultural University, 2014 and 2015
 
 
 Positions
