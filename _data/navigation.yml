@@ -14,11 +14,11 @@ main:
   - title: "Honors & Awards"
     url: /talks/    
 
-  # - title: "Teaching"
+  #- title: "Teaching"
   #  url: /teaching/    
     
-  - title: "Lab Members"
-    url: /portfolio/
+  #- title: "Lab Members"
+  #  url: /portfolio/
         
   - title: "Join Us"
     url: /year-archive/
