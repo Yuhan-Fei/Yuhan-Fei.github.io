@@ -1,9 +1,8 @@
 ---
 title: "Honors & Awards"
 collection: talks
-type: ""
-permalink: ""
-venue: ""
+permalink: /talks/list
+
 date: 2024-01-01
 ---
 
@@ -24,6 +23,7 @@ date: 2024-01-01
 15. Outstanding in Mid-Term Assessment for Students, Nanjing Agricultural University, 2015 and 2017
 
 <!--
-permalink: /talks/list
+type: ""
+venue: ""
 location: ""
 -->
