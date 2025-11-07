@@ -1,11 +1,10 @@
 ---
-title: ""
+title: "Honors & Awards"
 collection: talks
 type: ""
-permalink: /talks/list
+permalink: ""
 venue: ""
 date: 2024-01-01
-location: ""
 ---
 
 1. Best Presenter, the 3rd Postdoctoral Forum on "Life Sciences, Medicine, and Pharmacy", Tsinghua University, 2023
@@ -23,3 +22,8 @@ location: ""
 13. First-Class Academic Scholarship for Students, Nanjing Agricultural University, 2016, 2017, and 2018
 14. First-Class Academic Scholarship for Students, Nanjing Agricultural University, 2014 and 2015
 15. Outstanding in Mid-Term Assessment for Students, Nanjing Agricultural University, 2015 and 2017
+
+<!--
+permalink: /talks/list
+location: ""
+-->
