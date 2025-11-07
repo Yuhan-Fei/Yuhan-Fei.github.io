@@ -1,7 +1,7 @@
 ---
 title: "Conference Talks"
 collection: talks
-permalink: /talks/awards
+permalink: /talks/talks
 date: 2025-11-01
 ---
 
