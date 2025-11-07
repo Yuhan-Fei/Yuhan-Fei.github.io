@@ -85,7 +85,7 @@ publication_category:
     title: 'Books'
   manuscripts:
     #title: 'Journal Articles'    
-    title: '*: Co-first author, #: Corresponding author'   
+    title: '*: Co-first author,  #: Corresponding author'   
   conferences:
     title: 'Conference Papers'
 
