@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Honors & Awards"
 collection: talks
 type: ""
 permalink: /talks/list
@@ -8,13 +8,13 @@ date: 2014-03-01
 location: ""
 ---
 
-1. Best Presenter at the 3rd Postdoctoral Forum on "Life Sciences, Medicine, and Pharmacy" at Tsinghua University, 2023
-2. Best Poster at the 3rd Postdoctoral Forum on "Life Sciences, Medicine, and Pharmacy" at Tsinghua University, 2023
-3. Gold Award for Poster at the Cold Spring Harbor Asia Conference on "RNA Therapeutics: Current Status and Future" 2023
+1. Best Presenter, the 3rd Postdoctoral Forum on "Life Sciences, Medicine, and Pharmacy", Tsinghua University, 2023
+2. Best Poster, the 3rd Postdoctoral Forum on "Life Sciences, Medicine, and Pharmacy", Tsinghua University, 2023
+3. Gold Award for Poster, Cold Spring Harbor Asia Conference, "RNA Therapeutics: Current Status and Future" 2023
 4. Outstanding Postdoctoral Fellowship, Postdoctoral Foundation of Tsinghua-Peking Center for Life Sciences 2023 
 5. Distinguished Postdoctoral Fellowship, Postdoctoral Foundation of Tsinghua-Peking Center for Life Sciences 2021
-6. Outstanding Graduate Thesis of Nanjing Agricultural University, 2020
-7. Outstanding Graduate of Nanjing Agricultural University, 2019
+6. Outstanding Graduate Thesis, Nanjing Agricultural University, 2020
+7. Outstanding Graduate, Nanjing Agricultural University, 2019
 8. Innovation Project for Doctoral Thesis (Class I), Nanjing Agricultural University, 2019
 9. Presidential Scholarship, Nanjing Agricultural University, 2018
 10. Zhongshan Scholar Research Star Award, Nanjing Agricultural University, 2018
