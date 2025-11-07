@@ -25,7 +25,7 @@ Dr. Fei's group focuses on the frontier intersection of "Artificial Intelligence
 3. Design of peptide-based drugs
 4. Modeling of AI virtual cells
 <p align="justify">
-Dr. Fei's group is well-funded and continuously recruits postdoctoral fellows, Doctoral students, master's students, interns, and research assistants. The group has established collaborations with Tsinghua University, Peking University, and Harvard Medical School. Exceptional candidates may be recommended for exchange opportunities. Interested individuals are welcome to join or contact us at fei_yuhan(AT)outlook.com for more information.
+Dr. Fei's group is well-funded and continuously recruits postdoctoral fellows, doctoral students, master's students, interns, and research assistants. The group has established collaborations with Tsinghua University, Peking University, and Harvard Medical School. Exceptional candidates may be recommended for exchange opportunities. Interested individuals are welcome to join or contact us at fei_yuhan(AT)outlook.com for more information.
 </p>
 
 Fundings
