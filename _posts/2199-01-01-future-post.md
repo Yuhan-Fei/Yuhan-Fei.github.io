@@ -1,6 +1,6 @@
 ---
 title: '岗位1: 博士后'
-date: 2126-01-01
+date: 2026-01-05
 permalink: /posts/2012/08/blog-post-4/
 tags:
   - cool posts
