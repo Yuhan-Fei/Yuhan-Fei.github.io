@@ -41,7 +41,7 @@ Patents
 Positions
 ======
 1. Youth Member of the Committee on Bioinformatics and Genomics & the Committee on Artificial Intelligence and Life Sciences, Bioinformatics Society of China, 2023-Present
-2. Chair of the Graduate Student Association at the College of Information Science and Technology, Nanjing Agricultural University, 2015–2016
+2. Chair of the Graduate Student Association at the College of Information Science and Technology (Currently the College of Artificial Intelligence), Nanjing Agricultural University, 2015–2016
 
 
 
