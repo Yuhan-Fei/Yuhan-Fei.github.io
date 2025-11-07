@@ -56,7 +56,7 @@ redirect_from:
 9.	Wang R, Yang Z, <b>Fei Y</b>, Feng J, Zhu H, Huang F, Zhang H, Huang J #. Construction and analysis of degradome-dependent microRNA regulatory networks in soybean. <b><i>BMC Genomics</i></b>, 20(1): 534, 2019.
 10.	Feng Z, Feng J, Zhang B, <b>Fei Y</b>, Zhang, H, Huang J #. PhasiHunter: a robust phased siRNA regulatory cascade mining tool based on multiple reference sequences. <b><i>Bioinformatics</i></b>, 39(11): btad676, 2023.
 11.	Shi B *, An K *, Wang Y, <b>Fei Y</b>, Guo C, Zhang Q C, Yang Y, Tian X, Kan Q #. RNA structural dynamics modulate EGFR-TKI resistance through controlling YRDC translation in NSCLC cells. <b><i>Genomics, Proteomics & Bioinformatics</i></b>, 21(4): 850–865, 2023.
-12.	Shukla A*, Yan J*, Pagano D J, Dodson A E, <b>Fei Y</b>, Gorham J, Seidman J G, Wickens M, Kennedy S #. poly(UG)-tailed RNAs in genome protection and epigenetic inheritance. <b><i>Nature</i></b>, 582(7811): 283–288, 2020.
+12.	Shukla A *, Yan J *, Pagano D J, Dodson A E, <b>Fei Y</b>, Gorham J, Seidman J G, Wickens M, Kennedy S #. poly(UG)-tailed RNAs in genome protection and epigenetic inheritance. <b><i>Nature</i></b>, 582(7811): 283–288, 2020.
 13.	Wan G, Bajaj L, Fields B, Dodson A E, Pagano D J, <b>Fei Y</b>, Kennedy S #. ZSP-1 is a Z Granule Surface Protein Required for Z Granule Fluidity and Germline Immortality in C. elegans. <b><i>EMBO Journal</i></b>, 40(3): e105612, 2021.
 
 获奖情况
