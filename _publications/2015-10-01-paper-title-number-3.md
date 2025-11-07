@@ -1,14 +1,13 @@
 ---
-title: "Paper Title Number 3"
+title: "PhasiHunter: a robust phased siRNA regulatory cascade mining tool based on multiple reference sequences"
 collection: publications
 category: manuscripts
-permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-slidesurl: 'https://academicpages.github.io/files/slides3.pdf'
+permalink: /publication/2023-11-09
+excerpt: ''
+date: 2023-11-09
+venue: 'Bioinformatics'
 paperurl: 'https://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+citation: 'Feng Z, Feng J, Zhang B, <b>Fei Y</b>, Zhang, H, Huang J <sup>#</sup> PhasiHunter: a robust phased siRNA regulatory cascade mining tool based on multiple reference sequences. <i>Bioinformatics</i>, 39(11): btad676, 2023.'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+In recent years, phased small interfering RNA has been found to play crucial roles in many biological processes in plants. However, efficiently predicting phasiRNA regulatory cascades with computational methods is still challenging. Here, we introduce PhasiHunter, a phasiRNA regulatory network prediction tool that has several distinctive features compared to existing tools: (i) PhasiHunter employs two major phasiRNA prediction algorithms, namely phase score and hypergeometric distribution-based methods, to ensure the integrity and accuracy of prediction; (ii) PhasiHunter can identify phasiRNAs and their regulatory networks based on multiple reference sequences and the predicted results can be automatically integrated; (iii) PhasiHunter can efficiently identify the phasiRNAs generated through alternative splicing events; and (iv) the excellent data structure and parallel computing architecture allow PhasiHunter to predict phasiRNAs and their regulatory pathways with high efficiency.
