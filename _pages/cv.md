@@ -41,7 +41,7 @@ redirect_from:
 1. 小分子和RNA互作关系的预测方法、系统、存储介质和设备，CN120199320A，2025
 2. 基于越界重置的参数列维化粒子群算法，CN106845629A，2017
 
-论文发表（部分）
+论文发表
 ======
 *: Co-first author, #: Co-corresponding author
 
@@ -59,7 +59,7 @@ redirect_from:
 12.	Shukla A*, Yan J*, Pagano D J, Dodson A E, <b>Fei Y</b>, Gorham J, Seidman J G, Wickens M, Kennedy S #. poly(UG)-tailed RNAs in genome protection and epigenetic inheritance. <b><i>Nature</i></b>, 582(7811): 283–288, 2020.
 13.	Wan G, Bajaj L, Fields B, Dodson A E, Pagano D J, <b>Fei Y</b>, Kennedy S #. ZSP-1 is a Z Granule Surface Protein Required for Z Granule Fluidity and Germline Immortality in C. elegans. <b><i>EMBO Journal</i></b>, 40(3): e105612, 2021.
 
-获奖情况（部分）
+获奖情况
 ======
 1. 2023年 清华大学第三届“生命科学、医学、药学”博士后论坛，最佳报告人
 2. 2023年 清华大学第三届“生命科学、医学、药学”博士后论坛，最佳墙报
