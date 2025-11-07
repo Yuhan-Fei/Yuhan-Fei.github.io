@@ -24,7 +24,7 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Yuhan Fei, Ph.D"
+  name             : "Yuhan Fei, Ph.D."
   pronouns         : # example: "she/her"  
   bio              : "Professor, AI-driven drug discovery"
   location         : "Nanjing, China"
