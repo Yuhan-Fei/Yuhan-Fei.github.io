@@ -1,6 +1,6 @@
 ---
-title: 'Future Blog Post'
-date: 2199-01-01
+title: '岗位1: 博士后'
+date: 2126-01-01
 permalink: /posts/2012/08/blog-post-4/
 tags:
   - cool posts
