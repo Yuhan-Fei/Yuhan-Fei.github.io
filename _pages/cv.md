@@ -52,7 +52,7 @@ redirect_from:
 5.	<b>Fei Y</b>, Mao Y, Shen C, Wang R, Zhang H, Huang J #. WPMIAS: Whole-degradome-based Plant MicroRNA-target Interaction Analysis Server. <b><i>Bioinformatics</i></b>, 36(6): 1937–1939, 2020.
 6.	<b>Fei Y</b>, Wang R, Li H, Liu S, Zhang H, Huang J #. DPMIND: degradome-based plant miRNA-target interaction and network database. <b><i>Bioinformatics</i></b>, 34(9): 1618–1620, 2018.
 7.	Zhang B, <b>Fei Y</b>, Feng J, Zhu X, Wang R, Xiao H, Zhang H, Huang J #. RiceNCexp: a rice non-coding RNA co-expression atlas based on massive RNA-seq and small-RNA seq data. <b><i>Journal of Experimental Botany</i></b>, 73(18): 6068–6077, 2022.
-8.	Wan G, Yan J, <b>Fei Y</b>, Pagano D J, Kennedy S #. A Conserved NRDE-2/MTR-4 Complex Mediates Nuclear RNAi in C. elegans. <b><i>Genetics</i></b>, 216(4): 1071-1085, 2020.
+8.	Wan G, Yan J, <b>Fei Y</b>, Pagano D J, Kennedy S #. A Conserved NRDE-2/MTR-4 Complex Mediates Nuclear RNAi in Caenorhabditis elegans <b><i>Genetics</i></b>, 216(4): 1071-1085, 2020.
 9.	Wang R, Yang Z, <b>Fei Y</b>, Feng J, Zhu H, Huang F, Zhang H, Huang J #. Construction and analysis of degradome-dependent microRNA regulatory networks in soybean. <b><i>BMC Genomics</i></b>, 20(1): 534, 2019.
 10.	Feng Z, Feng J, Zhang B, <b>Fei Y</b>, Zhang, H, Huang J #. PhasiHunter: a robust phased siRNA regulatory cascade mining tool based on multiple reference sequences. <b><i>Bioinformatics</i></b>, 39(11): btad676, 2023.
 11.	Shi B *, An K *, Wang Y, <b>Fei Y</b>, Guo C, Zhang Q C, Yang Y, Tian X, Kan Q #. RNA structural dynamics modulate EGFR-TKI resistance through controlling YRDC translation in NSCLC cells. <b><i>Genomics, Proteomics & Bioinformatics</i></b>, 21(4): 850–865, 2023.
