@@ -43,7 +43,7 @@ redirect_from:
 
 论文发表
 ======
-*: Co-first author, #: Co-corresponding author
+*: Co-first author, #: Corresponding author
 
 1. <b>Fei Y *</b>, Wang P *, Zhang J *, Shan X, Cai Z, Ma J, Wang Y <sup>#</sup>, Zhang Q C <sup>#</sup>. Predicting small molecule–RNA interactions without RNA tertiary structures. <b><i>Nature Biotechnology</i></b>, 2025.
 2. Mu K *, <b>Fei Y *,<sup>#</sup></b>, Xu Y, Zhang Q C <sup>#</sup>. RASP v2.0: an updated atlas for RNA structure probing data. <b><i>Nucleic Acids Research</i></b>, 53(D1): D211–D219, 2025.
