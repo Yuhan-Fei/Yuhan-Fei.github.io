@@ -16,7 +16,7 @@ redirect_from:
 </p>
 
 <p align="justify" >
-目前，以第一/通讯作者在Nature Biotechnology (2025)、Nature Methods (2022)、Nucleic Acids Research (2025)、Bioinformatics (2018, 2020)、RNA Biology(2021)等期刊上发表论文，并以项目合作者在 Nature (2020)、EMBO Journal (2021)、Genomics, Proteomics & Bioinformatics (2022)、Bioinformatics (2023)、Genetics (2020)等期刊上发表论文。累计发表学术论文十余篇，总影响因子超过240。论文发表详见: https://yuhan-fei.github.io/publications/
+目前，以第一/通讯作者在Nature Biotechnology (2025)、Nature Methods (2022)、Nucleic Acids Research (2025)、Bioinformatics (2018, 2020)、RNA Biology(2021)等期刊上发表论文，并以项目合作者在 Nature (2020)、EMBO Journal (2021)、Genomics, Proteomics & Bioinformatics (2022)、Bioinformatics (2023)、Genetics (2020)等期刊上发表论文。累计发表学术论文十余篇，总影响因子超过240，详见: https://yuhan-fei.github.io/publications/
 
 </p>
 
@@ -30,9 +30,7 @@ redirect_from:
 3. 多肽类药物的设计与临床转化
 4. 人工智能虚拟细胞的建模及应用
 
-课题组经费分充足，长期招收博士后、博士研究生、硕士研究生、实习生以及科研助理，与清华大学、北京大学、哈佛医学院等建有长期合作关系，优秀者可推荐前往交流学习，欢迎感兴趣的同学加入或来函咨询。
-
-具体职位和要求详见: https://yuhan-fei.github.io/year-archive/
+课题组经费分充足，长期招收博士后、博士研究生、硕士研究生、实习生以及科研助理，与清华大学、北京大学、哈佛医学院等建有长期合作关系，优秀者可推荐前往交流学习，欢迎感兴趣的同学加入或来函咨询，详见: https://yuhan-fei.github.io/year-archive/
     
 联系方式: fei_yuhan(AT)outlook.com
 
