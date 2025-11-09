@@ -16,7 +16,7 @@ redirect_from:
 </p>
 
 <p align="justify" >
-目前，以第一/通讯作者在Nature Biotechnology (2025)、Nature Methods (2022)、Nucleic Acids Research (2025)、Bioinformatics (2018, 2020)、RNA Biology(2021)等期刊上发表论文，并以项目合作者在 Nature (2020)、EMBO Journal (2021)、Genomics, Proteomics & Bioinformatics (2022)、Bioinformatics (2023)、Genetics (2020)等期刊上发表论文。累计发表学术论文十余篇，总影响因子超过240。
+目前，以第一/通讯作者在Nature Biotechnology (2025)、Nature Methods (2022)、Nucleic Acids Research (2025)、Bioinformatics (2018, 2020)、RNA Biology (2021)等期刊上发表论文，并以项目合作者在 Nature (2020)、EMBO Journal (2021)、Genomics, Proteomics & Bioinformatics (2022)、Bioinformatics (2023)、Genetics (2020)等期刊上发表论文。累计发表学术论文十余篇，总影响因子超过240。
 </p>
 
 课题组简介
