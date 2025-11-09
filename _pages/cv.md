@@ -31,7 +31,7 @@ redirect_from:
 
 课题组经费分充足，长期招收博士后、博士研究生、硕士研究生、实习生以及科研助理，与清华大学、北京大学、哈佛医学院等建有长期合作关系，优秀者可推荐前往交流学习，欢迎感兴趣的同学加入或来函咨询，
 
-提供职位和待遇详见: https://yuhan-fei.github.io/year-archive/
+职位和待遇详见: https://yuhan-fei.github.io/year-archive/
     
 联系方式: fei_yuhan(AT)outlook.com
 
