@@ -1,4 +1,4 @@
-<img width="432" height="233" alt="image" src="https://github.com/user-attachments/assets/9c3e9791-71eb-4fb0-81cb-8cf2609dad2b" /><img width="432" height="216" alt="image" src="https://github.com/user-attachments/assets/cc3c04aa-fc5f-4aca-9d58-a8092a73b547" />---
+---
 title: 'Position I: Postdoctoral Fellow (博士后)'
 date: 2026-01-05
 permalink: /posts/2012/08/blog-post-4/
