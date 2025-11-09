@@ -1,7 +1,7 @@
 ---
 title: 'Position I: Postdoctoral Fellow (博士后)'
 date: 2026-01-05
-permalink: /posts/2012/08/blog-post-4/
+permalink: /posts/2012/08/blog-post-5/
 tags:
   - cool posts
   - category1
