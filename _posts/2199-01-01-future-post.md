@@ -8,11 +8,10 @@ tags:
   - category2
 ---
 
-<!-- This post will show up by default. To disable scheduling of future posts, edit `config.yml` and set `future: false`. -->
+现根据课题需要招聘博士后2-3名，详细情况见链接内。
 
 岗位职责
 ------
-现根据课题需要招聘博士后2-3名，岗位职责包括；  
 1. 作为团队骨干独立开展研究课题；  
 2. 协助指导学生和技术人员；  
 3. 积极参与实验室安排的其他工作和团队工作。
