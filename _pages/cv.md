@@ -34,7 +34,7 @@ redirect_from:
 
 职位和待遇详见: https://yuhan-fei.github.io/year-archive/
     
-联系方式: yuhan.fei@cpu.edu.cn
+联系方式: yuhan_fei@outlook.com OR yuhan.fei@cpu.edu.cn
 
 主持基金
 ======
