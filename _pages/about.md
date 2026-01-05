@@ -12,7 +12,7 @@ Personal Profile
 Yuhan Fei, born in 1992 in Nanjing, is a Professor at China Pharmaceutical University and the Principal Investigator of the AI-driven Drug Discovery Group. He was selected for the Leading Scholar Talent Program of China Pharmaceutical University. Dr. Fei obtained his Ph.D. degree from Nanjing Agricultural University in 2020, during which he conducted joint doctoral research program in Scott Kennedy's group at Harvard Medical School from 2018 to 2020. From 2021 to 2025, he pursued postdoctoral research in Qiangfeng Cliff Zhang’s group at Tsinghua University. In 2025, Dr. Fei joined the School of Pharmacy, China Pharmaceutical University, to establish the AI-driven Drug Discovery Laboratory. Dr. Fei has an interdisciplinary educational background spanning Computer Science and Technology, Bioinformatics, and Biology. His research focuses on the intersection of artificial intelligence and biomedicine. 
 </p>
 <p align="justify" >
-To date, as the first/corresponding author, Dr. Fei has published papers in Nature Biotechnology (2025), Nature Methods (2022), Nucleic Acids Research (2025), Bioinformatics (2018, 2020), and RNA Biology (2021), <i>etc</i>. As a co-author, Dr. Fei has contributed to papers published in Nature (2020), EMBO Journal (2021), Genomics, Proteomics & Bioinformatics (2022), Bioinformatics (2023), and Genetics (2020), <i>etc</i>. Dr. Fei has published over ten academic papers, with a total impact factor exceeding 240.
+To date, as the first/corresponding author, Dr. Fei has published papers in Nature Biotechnology (2026), Nature Methods (2022), Nucleic Acids Research (2025), Bioinformatics (2018, 2020), and RNA Biology (2021), <i>etc</i>. As a co-author, Dr. Fei has contributed to papers published in Nature (2020), EMBO Journal (2021), Genomics, Proteomics & Bioinformatics (2022), Bioinformatics (2023), and Genetics (2020), <i>etc</i>. Dr. Fei has published over ten academic papers, with a total impact factor exceeding 240.
 </p>
 
 Research Interests
@@ -21,8 +21,8 @@ Research Interests
 Dr. Fei's group focuses on the frontier intersection of "Artificial Intelligence + Biomedicine", with an emphasis on addressing major global health challenges such as cancer, infectious diseases, and rare diseases, <i>etc</i>. The group is committed to exploring new paradigms in drug discovery and disease treatment. By integrating multidisciplinary approaches, including artificial intelligence, bioinformatics, molecular and cell biology, and biophysics, the group has established a "dry-wet combined" research system to advance the development of new technologies and methods for precision disease prevention and treatment. His group primarily focuses on the following directions:
 </p>
 1. Discovery of RNA-targeting small molecules
-2. Design of mRNA vaccines and circle RNAs
-3. Optimization of peptide-based drugs
+2. Optimization of mRNA vaccines and circle RNAs
+3. Design of peptide- and antibody-based drugs
 4. Modeling of AI virtual cells
 <p align="justify">
 Dr. Fei's group is well-funded and continuously recruits postdoctoral fellows, doctoral students, master's students, interns, and research assistants. The group has established collaborations with Tsinghua University, Peking University, and Harvard Medical School. Exceptional candidates may be recommended for exchange opportunities. Interested individuals are welcome to join or contact us at fei_yuhan(AT)outlook.com for more information.
@@ -43,8 +43,9 @@ Patents
 
 Positions
 ======
-1. Youth Member of the Committee on Bioinformatics and Genomics & the Committee on Artificial Intelligence and Life Sciences, Bioinformatics Society of China, 2023-Present
-2. Chair of the Graduate Student Association at the College of Information Science and Technology (Currently the College of Artificial Intelligence), Nanjing Agricultural University, 2015–2016
+1. Youth Member of the Committee on Artificial Intelligence and Life Sciences, Bioinformatics Society of China, 2023-Present
+2. Youth Member of the Committee on Bioinformatics and Genomics, Bioinformatics Society of China, 2023-Present
+3. Chair of the Graduate Student Association at the College of Information Science and Technology (Currently the College of Artificial Intelligence), Nanjing Agricultural University, 2015–2016
 
 
 
