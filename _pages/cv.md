@@ -36,6 +36,8 @@ redirect_from:
     
 联系方式: yuhan_fei@outlook.com OR yuhan.fei@cpu.edu.cn
 
+办公室：中国药科大学江宁校区学院实验楼二期4楼
+
 主持基金
 ======
 1. 国家自然科学基金-青年科学基金项目（现青年科学基金项目C类），2022-2025（已结题）
