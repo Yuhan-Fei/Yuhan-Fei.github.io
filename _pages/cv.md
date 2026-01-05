@@ -1,4 +1,4 @@
----
+<img width="432" height="17" alt="image" src="https://github.com/user-attachments/assets/e1a86899-1a4c-4194-a076-5cb454c79af3" />---
 layout: archive
 title: ""
 permalink: /cv/
@@ -16,7 +16,7 @@ redirect_from:
 </p>
 
 <p align="justify" >
-目前，以第一/通讯作者在Nature Biotechnology (2025)、Nature Methods (2022)、Nucleic Acids Research (2025)、Bioinformatics (2018, 2020)、RNA Biology (2021)等期刊上发表论文，并以项目合作者在 Nature (2020)、EMBO Journal (2021)、Genomics, Proteomics & Bioinformatics (2022)、Bioinformatics (2023)、Genetics (2020)等期刊上发表论文。累计发表学术论文十余篇，总影响因子超过240。
+目前，以第一/通讯作者在Nature Biotechnology (2026)、Nature Methods (2022)、Nucleic Acids Research (2025)、Bioinformatics (2018, 2020)、RNA Biology (2021)等期刊上发表论文，并以项目合作者在 Nature (2020)、EMBO Journal (2021)、Genomics, Proteomics & Bioinformatics (2022)、Bioinformatics (2023)、Genetics (2020)等期刊上发表论文。累计发表学术论文十余篇，总影响因子超过240。
 </p>
 
 课题组简介
@@ -24,9 +24,9 @@ redirect_from:
 中国药科大学坐落于江苏省南京市，是一所教育部直属、国家“211”工程、“985工程优势学科创新平台”、“双一流”建设高校的知名学府。学校办学历史悠久、特色鲜明、学风优良、在国内外药学界享有盛誉。作为一所以药学为特色的多科性、研究型大学，学校建有完备的药学学科体系与一流的创新平台。根据ESI最新排名，其药理学与毒理学学科已进入全球前万分之一，位列全球第13位，亚洲高校第1位，彰显了卓越的学术影响力与国际竞争力。
 
 费宇涵课题组的研究围绕“人工智能+生物医药”这一前沿交叉领域，主要聚焦于癌症、传染病、罕见病等人类重大健康挑战，致力于探索药物研发与疾病治疗的新范式。课题组通过深度结合人工智能、生物信息学、分子和细胞生物学、生物物理学等等多学科手段，构建“干湿结合”的研究体系，以推动疾病精准防治新技术与新方法的开发。主要研究方向包括但不限于：
-1. 靶向RNA的小分子药物的开发
-2. mRNA疫苗和环状RNA的设计
-3. 多肽类药物的优化与临床转化
+1. 靶向RNA的小分子药物的开发;
+2. 线性和环状RNA疫苗的优化;
+3. 多肽和抗体类药物的设计;
 4. 人工智能虚拟细胞的建模及应用
 <!-- 3. gRNA的优化与基因编辑 -->
 
@@ -34,7 +34,7 @@ redirect_from:
 
 职位和待遇详见: https://yuhan-fei.github.io/year-archive/
     
-联系方式: fei_yuhan(AT)outlook.com
+联系方式: yuhan.fei@cpu.edu.cn
 
 主持基金
 ======
@@ -52,7 +52,7 @@ redirect_from:
 ======
 *: Co-first author, #: Corresponding author
 
-1. <b>Fei Y *</b>, Wang P *, Zhang J *, Shan X, Cai Z, Ma J, Wang Y <sup>#</sup>, Zhang Q C <sup>#</sup>. Predicting small molecule–RNA interactions without RNA tertiary structures. <b><i>Nature Biotechnology</i></b>, 2025.
+1. <b>Fei Y *</b>, Wang P *, Zhang J *, Shan X, Cai Z, Ma J, Wang Y <sup>#</sup>, Zhang Q C <sup>#</sup>. Predicting small molecule–RNA interactions without RNA tertiary structures. <b><i>Nature Biotechnology</i></b>, 2026.
 2. Mu K *, <b>Fei Y *,<sup>#</sup></b>, Xu Y, Zhang Q C <sup>#</sup>. RASP v2.0: an updated atlas for RNA structure probing data. <b><i>Nucleic Acids Research</i></b>, 53(D1): D211–D219, 2025.
 3. Zhang J *, <b>Fei Y *</b>, Sun L <sup>#</sup>, Zhang Q C <sup>#</sup>. Advances and opportunities in RNA structure experimental determination and computational modeling. <b><i>Nature Methods</i></b>, 19(10): 1193–1207, 2022.
 4.	<b>Fei Y</b>, Feng J, Wang R, Zhang B, Zhang H, Huang J <sup>#</sup>. PhasiRNAnalyzer: an integrated analyser for plant phased siRNA. <b><i>RNA Biology</i></b>, 18(11): 1622–1629, 2021.
@@ -86,8 +86,9 @@ redirect_from:
 
 其他任职情况
 ======
-1. 2023年-现在 中国生物信息学，基因组信息学专委会和人工智能与生命科学专委会，青年委员
-2. 2015-2016年 南京农业大学，信息科学技术学院（现人工智能学院），研究生会主席
+1. 2023年-现在 中国生物信息学，人工智能与生命科学专委会，青年委员
+2. 2023年-现在 中国生物信息学，基因组信息学专委会，青年委员
+3. 2015-2016年 南京农业大学，信息科学技术学院（现人工智能学院），研究生会主席
 
 
 <!--
