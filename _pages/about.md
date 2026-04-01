@@ -30,15 +30,15 @@ Dr. Fei's group is well-funded and continuously recruits postdoctoral fellows, d
 
 Fundings
 ======
-1. National Natural Science Foundation of China, 2022-2025
-2. Beijing Natural Science Foundation, 2023-2025
-3. China Postdoctoral Science Foundation, 2022-2024
-4. China Pharmaceutical University’s Leading Scholor Talent Project, 2025-Present
+1. National Natural Science Foundation of China, 2022/01-2024/12
+2. Beijing Natural Science Foundation, 2023/01-2024/12
+3. China Postdoctoral Science Foundation, 2021/06-2023/06
+4. China Pharmaceutical University’s Leading Scholor Talent Project, 2025/12-Present
 
 Patents
 ======
-1. Methods, Systems, Storage Media, and Devices for Predicting the Interaction between Small Molecules and RNA, CN120199320A, 2025
-2. Particle Swarm Optimization Algorithm with Cross-Border Reset Mechanism, CN106845629A, 2017
+1. Methods, Systems, Storage Media, and Devices for Predicting the Interaction between Small Molecules and RNA, CN202510263239.6, 2025
+2. Particle Swarm Optimization Algorithm with Cross-Border Reset Mechanism, CN201710073144.3, 2017
 
 
 Positions
