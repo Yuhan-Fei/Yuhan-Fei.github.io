@@ -39,9 +39,9 @@ Dr. Fei's group is based at the Jiangning Campus of China Pharmaceutical Univers
 1. Ph.D. Program (Academic Degree): 100701 Medicinal Chemistry
 2. M.S. Program (Academic Degree): 100701 Medicinal Chemistry
 3. M.S. Program (Professional Degree): 105500-01 Pharmacy
-
+<p align="justify">
 ***: Candidates with proficiency in at least one programming language, solid experience with deep learning frameworks, and familiarity with high-throughput sequencing technologies will be given priority.
-
+</p>
 Graduate School Website: https://ygl.cpu.edu.cn/gmis5/dsfc/dsfcgrxx/307CC2F4FCCC5D892D6BEA60C43CAE57
 
 Fundings
