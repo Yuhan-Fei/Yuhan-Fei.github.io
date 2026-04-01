@@ -43,7 +43,7 @@ redirect_from:
 
 研究生院官网：https://ygl.cpu.edu.cn/gmis5/dsfc/dsfcgrxx/307CC2F4FCCC5D892D6BEA60C43CAE57
 
-课题组经费分充足，长期招收博士后、博士研究生、硕士研究生、实习生以及科研助理，与清华大学、北京大学、哈佛医学院等建有长期合作关系，优秀者可推荐前往交流学习。职位和待遇详见: https://yuhan-fei.github.io/year-archive/
+课题组经费分充足，长期招收博士后、博士研究生、硕士研究生、实习生以及科研助理，欢迎感兴趣的同学来函咨询。职位和待遇详见: https://yuhan-fei.github.io/year-archive/
 
 主持基金
 ======
