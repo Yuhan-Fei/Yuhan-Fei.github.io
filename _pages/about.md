@@ -29,6 +29,21 @@ Dr. Fei's group focuses on the frontier intersection of "Artificial Intelligence
 Dr. Fei's group is well-funded and continuously recruits postdoctoral fellows, doctoral students, master's students, interns, and research assistants. The group has established collaborations with Tsinghua University, Peking University, and Harvard Medical School. Exceptional candidates may be recommended for exchange opportunities. Interested individuals are welcome to join or contact us at fei_yuhan(AT)outlook.com for more information.
 </p>
 
+School of Pharmacy Website: https://yxy.cpu.edu.cn/95/2b/c11941a234795/page.htm
+
+Graduate Programs
+======
+<p align="justify">
+Dr. Fei's group is based at the Jiangning Campus of China Pharmaceutical University. We foster an open, inclusive, and dynamic research environment, with a strong emphasis on exploratory research and interdisciplinary innovation. The group is supported by abundant computational resources. We maintain long-term collaborations with leading academic and research institutions worldwide, including Tsinghua University, Peking University, and Harvard Medical School. Outstanding members may be recommended to these partner institutions for academic exchange. We warmly welcome highly motivated and talented young researchers with a strong interest in AI-driven drug discovery to join our team.
+</p>
+1. Ph.D. Program (Academic Degree): 100701 Medicinal Chemistry
+2. M.S. Program (Academic Degree): 100701 Medicinal Chemistry
+3. M.S. Program (Professional Degree): 105500-01 Pharmacy
+
+***: Candidates with proficiency in at least one programming language, solid experience with deep learning frameworks, and familiarity with high-throughput sequencing technologies will be given priority.
+
+Graduate School Website: https://ygl.cpu.edu.cn/gmis5/dsfc/dsfcgrxx/307CC2F4FCCC5D892D6BEA60C43CAE57
+
 Fundings
 ======
 1. National Natural Science Foundation of China, 2022/01-2024/12
