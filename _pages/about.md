@@ -25,9 +25,9 @@ Dr. Fei's group focuses on the frontier intersection of "Artificial Intelligence
 3. Design of peptide- and antibody-based drugs
 4. Modeling of AI virtual cells
 5. Analysis of RNA structurome
-<p align="justify">
-Dr. Fei's group is well-funded and continuously recruits postdoctoral fellows, doctoral students, master's students, interns, and research assistants. The group has established collaborations with Tsinghua University, Peking University, and Harvard Medical School. Exceptional candidates may be recommended for exchange opportunities. Interested individuals are welcome to join or contact us at fei_yuhan(AT)outlook.com for more information.
-</p>
+
+<!--Dr. Fei's group is well-funded and continuously recruits postdoctoral fellows, doctoral students, master's students, interns, and research assistants. The group has established collaborations with Tsinghua University, Peking University, and Harvard Medical School. Exceptional candidates may be recommended for exchange opportunities. Interested individuals are welcome to join or contact us at yuhan.fei(AT)cpu.edu.cn for more information.-->
+
 
 School of Pharmacy Website: https://yxy.cpu.edu.cn/95/2b/c11941a234795/page.htm
 
@@ -40,7 +40,10 @@ Dr. Fei's group is based at the Jiangning Campus of China Pharmaceutical Univers
 2. M.S. Program (Academic Degree): 100701 Medicinal Chemistry
 3. M.S. Program (Professional Degree): 105500-01 Pharmacy
 <p align="justify">
-***: Candidates with proficiency in at least one programming language, solid experience with deep learning frameworks, and familiarity with high-throughput sequencing technologies will be given priority.
+***: Candidates proficient in programming, experienced in deep learning frameworks, and familiar with high-throughput sequencing are preferred.
+</p>
+<p align="justify">
+Dr. Fei's group is well-funded and continuously recruits postdoctoral fellows, doctoral students, master's students, interns, and research assistants. Interested individuals are welcome to join or contact us for more information.
 </p>
 Graduate School Website: https://ygl.cpu.edu.cn/gmis5/dsfc/dsfcgrxx/307CC2F4FCCC5D892D6BEA60C43CAE57
 
