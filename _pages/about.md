@@ -24,6 +24,7 @@ Dr. Fei's group focuses on the frontier intersection of "Artificial Intelligence
 2. Optimization of mRNA vaccines and circle RNAs
 3. Design of peptide- and antibody-based drugs
 4. Modeling of AI virtual cells
+5. Analysis of RNA structurome
 <p align="justify">
 Dr. Fei's group is well-funded and continuously recruits postdoctoral fellows, doctoral students, master's students, interns, and research assistants. The group has established collaborations with Tsinghua University, Peking University, and Harvard Medical School. Exceptional candidates may be recommended for exchange opportunities. Interested individuals are welcome to join or contact us at fei_yuhan(AT)outlook.com for more information.
 </p>
