@@ -43,7 +43,7 @@ Dr. Fei's group is based at the Jiangning Campus of China Pharmaceutical Univers
 ***: Candidates proficient in programming, experienced in deep learning frameworks, and familiar with high-throughput sequencing are preferred.
 </p>
 <p align="justify">
-Dr. Fei's group is well-funded and continuously recruits postdoctoral fellows, doctoral students, master's students, interns, and research assistants. Interested individuals are welcome to join or contact us for more information.
+Dr. Fei's group is well-funded and continuously recruits postdoctoral fellows, doctoral students, master's students, interns, and research assistants. Interested individuals are welcome to join or contact us for more information. For positions and benefits, please refer to https://yuhan-fei.github.io/year-archive/
 </p>
 Graduate School Website: https://ygl.cpu.edu.cn/gmis5/dsfc/dsfcgrxx/307CC2F4FCCC5D892D6BEA60C43CAE57
 
