@@ -26,18 +26,20 @@ Education
 Education
 ======
 * 2016/09-2020/12
- * Ph.D. in Bioinformatics, Nanjing Agricultural University
+  * Ph.D. in Bioinformatics, Nanjing Agricultural University
 * 2018/02-2020/02
- * Joint Ph.D. in Biological and Biomedical Sciences, Harvard Medical School
+  * Joint Ph.D. in Biological and Biomedical Sciences, Harvard Medical School
 * 2014/09-2016/07
- * M.S. in Computer Science and Technology, Nanjing Agricultural University
+  * M.S. in Computer Science and Technology, Nanjing Agricultural University
 * 2010/09-2014/06
- * B.S. in Communication Engineering, Nanjing University of Posts and Telecommunications,
+  * B.S. in Communication Engineering, Nanjing University of Posts and Telecommunications,
 
 Professional experience
 ======
-* Professor, School of Pharmacy, China Pharmaceutical University, 2025/12-Present
-* Postdoctoral Researcher, School of Life Sciences, Tsinghua University, 2021/01-2025/06
+* 2025/12-Present
+  * Professor, School of Pharmacy, China Pharmaceutical University
+* 2021/01-2025/06
+  * Postdoctoral Researcher, School of Life Sciences, Tsinghua University
 
 Research Interests
 ======
