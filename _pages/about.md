@@ -28,7 +28,7 @@ Education
 * B.S. in Communication Engineering, Nanjing University of Posts and Telecommunications, 2010/09-2014/06
 -->
 
-Education Background
+Education
 ======
 * 2016/09-2020/12  
 Ph.D. in Bioinformatics, Nanjing Agricultural University
