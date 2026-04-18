@@ -17,15 +17,15 @@ To date, as the first/corresponding author, Dr. Fei has published papers in Natu
 
 Education
 ======
-* Ph.D. in Bioinformatics, Nanjing Agricultural University, 2016/09-2020/21
+* Ph.D. in Bioinformatics, Nanjing Agricultural University, 2016/09-2020/12
 * Joint Ph.D. in Biological and Biomedical Sciences, Harvard Medical School, 2018/02-2020/02
 * M.S. in Computer Science and Technology, Nanjing Agricultural University, 2014/09-2016/07
 * B.S. in Communication Engineering, Nanjing University of Posts and Telecommunications, 2010/09-2014/06
 
 Professional experience
 ======
-* Professor, School of Pharmacy, China Pharmaceutical University
-* Postdoctoral Researcher, School of Life Sciences, Tsinghua University
+* Professor, School of Pharmacy, China Pharmaceutical University, 2025/12-Present
+* Postdoctoral Researcher, School of Life Sciences, Tsinghua University, 2021/01-2025/06
 
 Research Interests
 ======
