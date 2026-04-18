@@ -44,7 +44,7 @@ Professional Experience
 * 2025/12-Present  
 Professor, School of Pharmacy, China Pharmaceutical University
 * 2021/01-2025/06  
-Postdoctoral Researcher, School of Life Sciences, Tsinghua University
+Postdoc, School of Life Sciences, Tsinghua University
 
 
 Research Interests
