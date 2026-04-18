@@ -23,8 +23,10 @@ Education
 * M.S. in Computer Science and Technology, Nanjing Agricultural University, 2014/09-2016/07
 * B.S. in Communication Engineering, Nanjing University of Posts and Telecommunications, 2010/09-2014/06
 -->
+
 Education
 ======
+<p align="justify" >
 * 2016/09-2020/12
   * Ph.D. in Bioinformatics, Nanjing Agricultural University
 * 2018/02-2020/02
@@ -33,13 +35,16 @@ Education
   * M.S. in Computer Science and Technology, Nanjing Agricultural University
 * 2010/09-2014/06
   * B.S. in Communication Engineering, Nanjing University of Posts and Telecommunications
+</p>
 
 Professional experience
 ======
+<p align="justify" >
 * 2025/12-Present
   * Professor, School of Pharmacy, China Pharmaceutical University
 * 2021/01-2025/06
   * Postdoctoral Researcher, School of Life Sciences, Tsinghua University
+</p>
 
 Research Interests
 ======
