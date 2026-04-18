@@ -52,7 +52,7 @@ Dr. Fei's group is based at the Jiangning Campus of China Pharmaceutical Univers
 2. M.S. Program (Academic Degree): 100701 Medicinal Chemistry
 3. M.S. Program (Professional Degree): 105500-01 Pharmacy
 <p align="justify">
-***: Candidates proficient in programming, experienced in deep learning frameworks, and familiar with high-throughput sequencing are preferred.
+* Candidates proficient in programming, experienced in deep learning frameworks, and familiar with high-throughput sequencing are preferred.
 </p>
 <p align="justify">
 Dr. Fei's group is well-funded and continuously recruits postdoctoral fellows, doctoral students, master's students, interns, and research assistants. Interested individuals are welcome to join or contact us for more information. For positions and benefits, please refer to https://yuhan-fei.github.io/year-archive/
