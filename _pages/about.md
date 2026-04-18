@@ -30,10 +30,10 @@ Education
 
 Education
 ======
-* 2016/09-2020/12  
-Ph.D. in Bioinformatics, Nanjing Agricultural University
 * 2018/02-2020/02  
 Joint Ph.D. in Biological and Biomedical Sciences, Harvard Medical School
+* 2016/09-2020/12  
+Ph.D. in Bioinformatics, Nanjing Agricultural University
 * 2014/09-2016/07  
 M.S. in Computer Science and Technology, Nanjing Agricultural University
 * 2010/09-2014/06  
