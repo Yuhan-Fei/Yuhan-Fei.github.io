@@ -15,12 +15,24 @@ Yuhan Fei, born in 1992 in Nanjing, is a Professor at China Pharmaceutical Unive
 To date, as the first/corresponding author, Dr. Fei has published papers in Nature Biotechnology (2026), Nature Methods (2022), Nucleic Acids Research (2025), Bioinformatics (2018, 2020), and RNA Biology (2021), <i>etc</i>. As a co-author, Dr. Fei has contributed to papers published in Nature (2020), EMBO Journal (2021), Genomics, Proteomics & Bioinformatics (2022), Bioinformatics (2023), and Genetics (2020), <i>etc</i>. Dr. Fei has published over ten academic papers, with a total impact factor exceeding 240.
 </p>
 
+<!--
 Education
 ======
 * Ph.D. in Bioinformatics, Nanjing Agricultural University, 2016/09-2020/12
 * Joint Ph.D. in Biological and Biomedical Sciences, Harvard Medical School, 2018/02-2020/02
 * M.S. in Computer Science and Technology, Nanjing Agricultural University, 2014/09-2016/07
 * B.S. in Communication Engineering, Nanjing University of Posts and Telecommunications, 2010/09-2014/06
+-->
+Education
+======
+* 2016/09-2020/12
+ * Ph.D. in Bioinformatics, Nanjing Agricultural University
+* 2018/02-2020/02
+ * Joint Ph.D. in Biological and Biomedical Sciences, Harvard Medical School
+* 2014/09-2016/07
+ * M.S. in Computer Science and Technology, Nanjing Agricultural University
+* 2010/09-2014/06
+ * B.S. in Communication Engineering, Nanjing University of Posts and Telecommunications,
 
 Professional experience
 ======
