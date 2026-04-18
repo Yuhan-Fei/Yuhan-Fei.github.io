@@ -32,7 +32,7 @@ Education
 * 2014/09-2016/07
   * M.S. in Computer Science and Technology, Nanjing Agricultural University
 * 2010/09-2014/06
-  * B.S. in Communication Engineering, Nanjing University of Posts and Telecommunications,
+  * B.S. in Communication Engineering, Nanjing University of Posts and Telecommunications
 
 Professional experience
 ======
