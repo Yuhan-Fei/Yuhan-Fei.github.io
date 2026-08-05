@@ -9,15 +9,13 @@ redirect_from:
 
 Personal Profile
 ======
-<p align="justify" >
 <!--
 Yuhan Fei, born in 1992 in Nanjing, is a Professor at China Pharmaceutical University and the Principal Investigator of the AI-driven Drug Discovery Group. He was selected for the Leading Scholar Talent Program of China Pharmaceutical University. Dr. Fei obtained his Ph.D. degree from Nanjing Agricultural University in 2020, during which he conducted joint doctoral research program in Scott Kennedy's group at Harvard Medical School from 2018 to 2020. From 2021 to 2025, he pursued postdoctoral research in Qiangfeng Cliff Zhang’s group at Tsinghua University. In 2025, Dr. Fei joined the School of Pharmacy, China Pharmaceutical University, to establish the AI-driven Drug Discovery Laboratory. Dr. Fei has an interdisciplinary educational background spanning Computer Science and Technology, Bioinformatics, and Biology. His research focuses on the intersection of artificial intelligence and biomedicine, with a dedication to AI-driven drug discovery and design, the bioinformatics analysis of multi-omics data, and the development of high-throughput experimental technologies.
--->
 
-<!--
 Yuhan Fei is a Professor at the School of Pharmacy, China Pharmaceutical University, and the Principal Investigator of the AI-driven Drug Discovery Group. With an interdisciplinary educational background spanning Computer Science and Technology, Bioinformatics, and Biology. Dr. Fei's research focuses on the intersection of artificial intelligence and biomedicine, with a dedication to AI-driven drug discovery and design, the bioinformatics analysis of multi-omics data, and the development of high-throughput experimental technologies.
 -->
 
+<p align="justify" >
 Yuhan Fei is a Professor at China Pharmaceutical University and the Principal Investigator of the AI-driven Drug Discovery Group. He was selected for the Leading Scholar Xingyao Leading Scholar Program of China Pharmaceutical University. Dr. Fei obtained his Ph.D. degree from Nanjing Agricultural University in 2020, during which he conducted joint doctoral research program in Scott Kennedy's group at Harvard Medical School from 2018 to 2020. From 2021 to 2025, he pursued postdoctoral research in Qiangfeng Cliff Zhang’s group at Tsinghua University. In December 2025, he joined China Pharmaceutical University as a full-time faculty member in the Department of Medicinal Chemistry, School of Pharmacy. Dr. Fei has an interdisciplinary educational background spanning Computer Science and Technology, Bioinformatics, and Biology. His research focuses on the intersection of artificial intelligence and biomedicine, with a dedication to AI-driven drug discovery and design, the bioinformatics analysis of multi-omics data, and the development of high-throughput experimental technologies.
   
 </p>
