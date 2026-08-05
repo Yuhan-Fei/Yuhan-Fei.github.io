@@ -54,7 +54,7 @@ Postdoc, School of Life Sciences, Tsinghua University
 Research Interests
 ======
 <p align="justify">
-Dr. Fei's group focuses on the frontier intersection of "Artificial Intelligence + Biomedicine", with an emphasis on addressing major global health challenges such as cancer, infectious diseases, and rare diseases, <i>etc</i>. The group is committed to exploring new paradigms in drug discovery and disease treatment. By integrating multidisciplinary approaches, including artificial intelligence, bioinformatics, molecular and cell biology, and biophysics, the group has established a "dry-wet combined" research system to advance the development of new technologies and methods for precision disease prevention and treatment. His group primarily focuses on the following directions:
+Dr. Fei's group focuses on the frontier intersection of "Artificial Intelligence + Biomedicine", with an emphasis on addressing major global health challenges such as cancer, infectious diseases, and rare diseases, <i>etc</i>. The group is committed to exploring new paradigms in drug discovery and disease treatment. By integrating multidisciplinary approaches, including artificial intelligence, bioinformatics, molecular and cell biology, and biophysics, the group has established a "dry-wet combined" research system to advance the development of new methods and technologies for the precision prevention and treatment of disease. His group primarily focuses on the following directions:
 </p>
 1. Discovery of RNA-targeting small molecules
 2. Optimization of mRNA vaccines and circle RNAs
