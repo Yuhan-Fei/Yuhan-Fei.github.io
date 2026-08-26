@@ -85,10 +85,11 @@ Graduate School Website: https://ygl.cpu.edu.cn/gmis5/dsfc/dsfcgrxx/307CC2F4FCCC
 
 Fundings
 ======
-1. National Natural Science Foundation of China, 2022/01-2024/12
-2. Beijing Natural Science Foundation, 2023/01-2024/12
-3. China Postdoctoral Science Foundation, 2021/06-2023/06
-4. China Pharmaceutical University’s Xingyao Leading Scholar Program, 2025/12-Present
+1. National Natural Science Foundation of China, 2027/01-2030/12
+2. National Natural Science Foundation of China, 2022/01-2024/12
+3. Beijing Natural Science Foundation, 2023/01-2024/12
+4. China Postdoctoral Science Foundation, 2021/06-2023/06
+5. China Pharmaceutical University’s Xingyao Leading Scholar Program, 2025/12-Present
 
 Patents
 ======
