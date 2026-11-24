@@ -26,7 +26,7 @@ redirect_from:
 <!--
 目前，以第一/通讯作者在Nature Biotechnology (2026)、Nature Methods (2022)、Nucleic Acids Research (2025)、Bioinformatics (2018, 2020)、RNA Biology (2021)等期刊上发表论文，并以项目合作者在 Nature (2020)、EMBO Journal (2021)、Genomics, Proteomics & Bioinformatics (2022)、Bioinformatics (2023)、Genetics (2020)等期刊上发表论文。累计发表学术论文十余篇，总影响因子超过240。
 --> 
-目前，以第一/通讯作者在Nature Biotechnology (2026)、Nature Methods (2022)、Nucleic Acids Research (2025)、Bioinformatics (2018, 2020)、RNA Biology (2021)等期刊上发表论文，并以项目合作者在 Nature (2020)、EMBO Journal (2021)、Genomics, Proteomics & Bioinformatics (2022)、Bioinformatics (2023)、Genetics (2020)等期刊上发表论文，主持国家自然科学基金面上项目、青年科学基金项目，北京市自然科学基金及中国博士后科学基金等多项国家级和省部级科研项目，担任中国生物信息学会人工智能与生命科学专委会、基因组信息学专委会青年委员。
+目前，以第一/通讯作者在Nature Biotechnology (2026)、Nature Methods (2022)、Nucleic Acids Research (2025)、Bioinformatics (2018, 2020)、RNA Biology (2021)等期刊上发表论文，并以项目合作者在 Nature (2020)、EMBO Journal (2021)、Genomics, Proteomics & Bioinformatics (2022)、Bioinformatics (2023)、Genetics (2020)等期刊上发表论文，主持国家自然科学基金面上项目、青年科学基金项目，北京市自然科学基金以及中国博士后科学基金等多项国家级和省部级科研项目，担任中国生物信息学会人工智能与生命科学专委会、基因组信息学专委会青年委员。
 </p>
 
 课题组简介
