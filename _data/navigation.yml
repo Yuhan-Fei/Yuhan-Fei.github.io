@@ -12,8 +12,8 @@ main:
     url: /publications/
     
   - title: "People (科研团队)"
-    url: /teaching/    
-    
+    url: /talks/   
+  
   - title: "CV (个人简历)"
     url: /cv/     
     
@@ -25,8 +25,10 @@ main:
 
  
   #- title: "Talks & Awards"
- #  url: /talks/    
-   
+  #  url: /talks/    
+ 
+  # - title: "Course (课程安排)"
+  #   url: /teaching/      
 
 
 
