@@ -8,23 +8,26 @@
 #      Markdown formatted page while the second is generated using JSON.
 
 main:
-  - title: "Publications (科研论文)"
+  - title: "Publications [科研论文]"
     url: /publications/
     
-  - title: "People (科研团队)"
+  - title: "People [科研团队]"
     url: /teaching/    
     
- #- title: "Talks & Awards"
- #  url: /talks/    
-
- #- title: "News (新闻)"
- #   url: /portfolio/
-        
-  - title: "Join Us (加入我们)"
-    url: /year-archive/
+  - title: "CV [个人简历]"
+    url: /cv/     
     
-  - title: "Curriculum Vitae （个人简历）"
-    url: /cv/
+  - title: "Join Us [加入我们]"
+    url: /year-archive/
+
+  #- title: "News (新闻)"
+  #  url: /portfolio/
+
+ 
+  #- title: "Talks & Awards"
+ #  url: /talks/    
+   
+
 
 
   #- title: "Talks"
