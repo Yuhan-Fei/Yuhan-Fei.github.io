@@ -45,16 +45,16 @@ Research Interests
 Dr. Fei's group focuses on the frontier intersection of "Artificial Intelligence + Biomedicine", with an emphasis on addressing major global health challenges such as cancer, infectious diseases, and rare diseases, <i>etc</i>. The group is committed to exploring new paradigms in drug discovery and disease treatment. By integrating multidisciplinary approaches, including artificial intelligence, bioinformatics, molecular and cell biology, and biophysics, the group has established a "dry-wet combined" research system to advance the development of new methods and technologies for the precision prevention and treatment of disease. His group primarily focuses on the following directions:
 </p>
 1. Discovery of RNA-targeting small molecules
-2. Optimization of mRNA vaccines and circle RNAs
-3. Design of peptide- and antibody-based drugs
+2. Design of peptide- and antibody-based drugs
+3. Optimization of mRNA vaccines and circle RNAs
 4. Modeling of AI virtual cells
-5. Analysis of RNA structurome
+5. Omics-Based Target Discovery
 
 
 Graduate Programs
 ======
 <p align="justify">
-Dr. Fei's group is based at the Jiangning Campus of China Pharmaceutical University. We foster an open, inclusive, and dynamic research environment, with a strong emphasis on exploratory research and interdisciplinary innovation. The group is supported by abundant computational resources. We maintain long-term collaborations with leading academic and research institutions worldwide, including Tsinghua University, Peking University, and Harvard Medical School. Outstanding members may be recommended to these partner institutions for academic exchange. We warmly welcome highly motivated and talented young researchers with a strong interest in AI-driven drug discovery to join our team.
+Dr. Fei's group is based at the Jiangning Campus of China Pharmaceutical University. We foster an open, inclusive, and dynamic research environment, with a strong emphasis on exploratory research and interdisciplinary innovation. The group is supported by abundant computational resources. We maintain long-term collaborations with leading academic and research institutions worldwide, including Tsinghua University, Peking University, and Harvard Medical School. Outstanding members may be recommended to these partner institutions for academic exchange. Dr. Fei's group is well-funded and continuously recruits postdoctoral fellows, doctoral students, master's students, interns, and research assistants. We warmly welcome highly motivated and talented young researchers with a strong interest in AI-driven drug discovery to join our team.
 </p>
 1. Ph.D. Program (Academic Degree): 100701 Medicinal Chemistry
 2. M.S. Program (Academic Degree): 100701 Medicinal Chemistry
@@ -62,10 +62,10 @@ Dr. Fei's group is based at the Jiangning Campus of China Pharmaceutical Univers
 <p align="justify">
 * Candidates proficient in programming, experienced in deep learning frameworks, and familiar with high-throughput sequencing are preferred.
 </p>
-<p align="justify">
-Dr. Fei's group is well-funded and continuously recruits postdoctoral fellows, doctoral students, master's students, interns, and research assistants. Interested individuals are welcome to join or contact us for more information. For positions and benefits, please refer to https://yuhan-fei.github.io/year-archive/
-</p>
-Graduate School Website: https://ygl.cpu.edu.cn/gmis5/dsfc/dsfcgrxx/307CC2F4FCCC5D892D6BEA60C43CAE57
+
+Graduate Admissions: https://ygl.cpu.edu.cn/gmis5/dsfc/dsfcgrxx/307CC2F4FCCC5D892D6BEA60C43CAE57
+
+Postdoctoral Recruitment: https://rcb.cpu.edu.cn/8a/80/c12099a232064/page.htm
 
 Fundings
 ======
@@ -75,11 +75,12 @@ Fundings
 4. China Postdoctoral Science Foundation, 2021/06-2023/06
 5. China Pharmaceutical University’s Xingyao Leading Scholar Program, 2025/12-Present
 
+<!--
 Patents
 ======
 1. Methods, Systems, Storage Media, and Devices for Predicting the Interaction between Small Molecules and RNA, CN202510263239.6, 2025
 2. Particle Swarm Optimization Algorithm with Cross-Border Reset Mechanism, CN201710073144.3, 2017
-
+-->
 
 Positions
 ======
