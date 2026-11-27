@@ -11,8 +11,19 @@ location: "City, Country"
 <!--
 This is a description of a teaching experience. You can use markdown like any other post.
 -->
+博士研究生：
+吴峥（2027级）
 
-123
+硕士研究生：
+轩云龙（2026级）
+孙思雨（2026级）
+邓永好（2026级）
+梁蔓薇 (2027级)
+李天诚 (2027级)
+
+科研助理：
+严铠杭
+黄旭
 
 
 Heading 1
