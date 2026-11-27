@@ -7,30 +7,14 @@ redirect_from:
   - /about.html
 ---
 
-Personal Profile
+个人简介
 ======
-<!--
-Yuhan Fei, born in 1992 in Nanjing, is a Professor at China Pharmaceutical University and the Principal Investigator of the AI-driven Drug Discovery Group. He was selected for the Leading Scholar Talent Program of China Pharmaceutical University. Dr. Fei obtained his Ph.D. degree from Nanjing Agricultural University in 2020, during which he conducted joint doctoral research program in Scott Kennedy's group at Harvard Medical School from 2018 to 2020. From 2021 to 2025, he pursued postdoctoral research in Qiangfeng Cliff Zhang’s group at Tsinghua University. In 2025, Dr. Fei joined the School of Pharmacy, China Pharmaceutical University, to establish the AI-driven Drug Discovery Laboratory. Dr. Fei has an interdisciplinary educational background spanning Computer Science and Technology, Bioinformatics, and Biology. His research focuses on the intersection of artificial intelligence and biomedicine, with a dedication to AI-driven drug discovery and design, the bioinformatics analysis of multi-omics data, and the development of high-throughput experimental technologies.
-
-Yuhan Fei is a Professor at the School of Pharmacy, China Pharmaceutical University, and the Principal Investigator of the AI-driven Drug Discovery Group. With an interdisciplinary educational background spanning Computer Science and Technology, Bioinformatics, and Biology. Dr. Fei's research focuses on the intersection of artificial intelligence and biomedicine, with a dedication to AI-driven drug discovery and design, the bioinformatics analysis of multi-omics data, and the development of high-throughput experimental technologies.
--->
-
 <p align="justify" >
-Yuhan Fei is a Professor at China Pharmaceutical University and the Principal Investigator of the AI-driven Drug Discovery Group. He was selected for the Xingyao Leading Scholar Program of China Pharmaceutical University. Dr. Fei obtained his Ph.D. degree from Nanjing Agricultural University in 2020, during which he conducted joint doctoral research program in Scott G. Kennedy's group at Harvard Medical School from 2018 to 2020. From 2021 to 2025, he pursued postdoctoral research in Qiangfeng Cliff Zhang’s group at Tsinghua University. In December 2025, he joined the Department of Medicinal Chemistry in the School of Pharmacy at China Pharmaceutical University  as a full-time faculty member. Dr. Fei has an interdisciplinary educational background spanning Computer Science and Technology, Bioinformatics, and Biology. His research focuses on the intersection of artificial intelligence and biomedicine, with a dedication to AI-driven drug discovery and design, the bioinformatics analysis of multi-omics data, and the development of high-throughput experimental technologies.
-  
+费宇涵，中国药科大学教授，博士生导师，人工智能药物研发课题组独立PI，入选南京市紫金山英才计划青拔项目第一层次，中国药科大学兴药领军学者高层次人才引进计划。2020年于南京农业大学获博士学位，2018-2020于哈佛医学院Scott G. Kennedy课题组进行博士联合培养项目，2021-2025年于清华大学张强锋课题组从事博士后研究，2025年正式加入中国药科大学药学院药物化学系，成立人工智能药物研发课题组并担任课题组组长。费宇涵博士拥有通信工程、计算机科学与技术、生物信息学及生物学等多学科专业背景，研究方向聚焦于“人工智能+生物医药”前沿交叉领域，并致力于人工智能驱动的药物发现与设计、多组学数据的生物信息学分析、高通量实验技术的开发与应用。
 </p>
 <p align="justify" >
-To date, as the first/corresponding author, Dr. Fei has published papers in Nature Biotechnology (2026), Nature Methods (2022), Nucleic Acids Research (2025), Bioinformatics (2018, 2020), and RNA Biology (2021), <i>etc</i>. As a co-author, Dr. Fei has contributed to papers published in Nature (2020), EMBO Journal (2021), Genomics, Proteomics & Bioinformatics (2022), Bioinformatics (2023), and Genetics (2020), <i>etc</i>. Dr. Fei has published over ten academic papers, with a total impact factor exceeding 240.
+目前，以第一/通讯作者在Nature Biotechnology (2026)、Nature Methods (2022)、Nucleic Acids Research (2025)、Bioinformatics (2018, 2020)、RNA Biology (2021)等期刊上发表论文，并以项目合作者在 Nature (2020)、EMBO Journal (2021)、Genomics, Proteomics & Bioinformatics (2022)、Bioinformatics (2023)、Genetics (2020)等期刊上发表论文，主持国家自然科学基金面上项目、青年科学基金项目，北京市自然科学基金以及中国博士后科学基金等多项国家级和省部级科研项目，担任中国生物信息学会人工智能与生命科学专委会、基因组信息学专委会青年委员。
 </p>
-
-<!--
-Education
-======
-* Ph.D. in Bioinformatics, Nanjing Agricultural University, 2016/09-2020/12
-* Joint Ph.D. in Biological and Biomedical Sciences, Harvard Medical School, 2018/02-2020/02
-* M.S. in Computer Science and Technology, Nanjing Agricultural University, 2014/09-2016/07
-* B.S. in Communication Engineering, Nanjing University of Posts and Telecommunications, 2010/09-2014/06
--->
 
 Education
 ======
