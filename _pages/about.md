@@ -22,7 +22,7 @@ redirect_from:
 
 费宇涵课题组的研究围绕“人工智能+生物医药”这一前沿交叉领域，主要聚焦于癌症、传染病、罕见病等人类重大健康挑战，致力于探索药物研发与疾病治疗的新范式。课题组通过深度结合人工智能、生物信息学、分子和细胞生物学、生物物理学等等多学科手段，构建“干湿结合”的研究体系，以推动疾病精准防治新技术与新方法的开发。研究方向涵盖靶标发现、药物设计、药物合成与优化、功能验证等药物研发关键环节，具体包括但不限于：
 1. 靶向RNA的小分子药物的开发;
-2. 多肽和抗体类药物的设计;
+2. 多肽与抗体类药物的设计;
 3. 线性和环状RNA疫苗的优化;
 4. 人工智能虚拟细胞的建模；
 5. 基于组学数据的靶标发现。
@@ -73,7 +73,7 @@ redirect_from:
 12.	Shukla A *, Yan J *, Pagano D J, Dodson A E, <b>Fei Y</b>, Gorham J, Seidman J G, Wickens M, Kennedy S <sup>#</sup>. poly(UG)-tailed RNAs in genome protection and epigenetic inheritance. <b><i>Nature</i></b>, 582(7811): 283–288, 2020.
 13.	Wan G <sup>#</sup>, Bajaj L, Fields B, Dodson A E, Pagano D J, <b>Fei Y</b>, Kennedy S <sup>#</sup>. ZSP-1 is a Z Granule Surface Protein Required for Z Granule Fluidity and Germline Immortality in C. elegans. <b><i>EMBO Journal</i></b>, 40(3): e105612, 2021.
 
-其他任职情况
+任职情况
 ======
 1. 2023年-现在 中国生物信息学，人工智能与生命科学专委会，青年委员
 2. 2023年-现在 中国生物信息学，基因组信息学专委会，青年委员
