@@ -1,5 +1,5 @@
 ---
-title: "硕士/博士研究生 （Graduate Student）"
+title: "Graduate Student（硕士/博士研究生）"
 excerpt: "孙思雨 中国药科大学 药学院 药物化学  2026级 <br/>
 轩云龙 中国药科大学 药学院 药物化学  2026级<br/>
 邓永好 中国药科大学 药学院 药学  2026级 <br/>
