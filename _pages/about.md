@@ -33,7 +33,7 @@ redirect_from:
 4. 人工智能虚拟细胞的建模；
 5. 基于组学数据的靶标发现。
 
-学院官网【官方】：https://yxy.cpu.edu.cn/95/2b/c11941a234795/page.htm
+学院网站介绍【官方】：https://yxy.cpu.edu.cn/95/2b/c11941a234795/page.htm
 
 
 
