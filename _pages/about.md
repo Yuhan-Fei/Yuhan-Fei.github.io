@@ -47,12 +47,11 @@ redirect_from:
 
 注：精通一种以上编程语言、熟练掌握深度学习模型开发、熟悉高通量测序技术者优先考虑。
 
-课题组经费分充足，长期招收博士后、博士研究生、硕士研究生、实习生以及科研助理，欢迎感兴趣的同学来函咨询。
-
 研究生招生【官方】：https://ygl.cpu.edu.cn/gmis5/dsfc/dsfcgrxx/307CC2F4FCCC5D892D6BEA60C43CAE57
 
 博士后招聘【官方】：https://rcb.cpu.edu.cn/8a/80/c12099a232064/page.htm
 
+课题组经费分充足，长期招收博士后、博士研究生、硕士研究生、实习生以及科研助理，欢迎感兴趣的同学来函咨询。
 
 主持基金
 ======
@@ -74,7 +73,10 @@ redirect_from:
 *: Co-first author, #: Corresponding author
 <p align="justify" >
 1. <b>Fei Y *</b>, Wang P *, Zhang J *, Shan X, Cai Z, Ma J, Wang Y <sup>#</sup>, Zhang Q C <sup>#</sup>. Predicting small molecule–RNA interactions without RNA tertiary structures. <b><i>Nature Biotechnology</i></b>, 2026.
+</p>
+<p align="justify" >
 2. Mu K *, <b>Fei Y *,<sup>#</sup></b>, Xu Y, Zhang Q C <sup>#</sup>. RASP v2.0: an updated atlas for RNA structure probing data. <b><i>Nucleic Acids Research</i></b>, 53(D1): D211–D219, 2025.
+</p>
 3. Zhang J *, <b>Fei Y *</b>, Sun L <sup>#</sup>, Zhang Q C <sup>#</sup>. Advances and opportunities in RNA structure experimental determination and computational modeling. <b><i>Nature Methods</i></b>, 19(10): 1193–1207, 2022.
 4.	<b>Fei Y</b>, Feng J, Wang R, Zhang B, Zhang H, Huang J <sup>#</sup>. PhasiRNAnalyzer: an integrated analyser for plant phased siRNA. <b><i>RNA Biology</i></b>, 18(11): 1622–1629, 2021.
 5.	<b>Fei Y</b>, Mao Y, Shen C, Wang R, Zhang H, Huang J <sup>#</sup>. WPMIAS: Whole-degradome-based Plant MicroRNA-target Interaction Analysis Server. <b><i>Bioinformatics</i></b>, 36(6): 1937–1939, 2020.
