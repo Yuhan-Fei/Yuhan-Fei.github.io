@@ -1,5 +1,5 @@
 ---
-title: "科研助理 (Research Assistant)"
+title: "Research Assistant (科研助理)"
 excerpt: "严铠杭 中国药科大学 药学院 药学 2022级<br/>
           黄  旭 中国药科大学 生命科学学院 海洋药学 2022级"
 collection: portfolio
