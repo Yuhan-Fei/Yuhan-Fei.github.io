@@ -1,5 +1,5 @@
 ---
-title: "Undergraduate Thesis (本科毕业论文)"
+title: "Undergraduate Thesis（本科毕业论文）"
 excerpt: "康宇衡 中国药科大学 药学院 药物化学 2023级 <br/>
 梁蔓薇 中国药科大学 药学院 药物化学 2023级 <br/>
 徐熙东 中国药科大学 药学院 药物化学 2023级 <br/>
