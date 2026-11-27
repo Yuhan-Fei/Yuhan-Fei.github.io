@@ -27,7 +27,7 @@ redirect_from:
 4. 人工智能虚拟细胞的建模；
 5. 基于组学数据的靶标发现。
 
-学院官网：https://yxy.cpu.edu.cn/95/2b/c11941a234795/page.htm
+学院官网【官方】：https://yxy.cpu.edu.cn/95/2b/c11941a234795/page.htm
 
 招生信息
 ======
@@ -40,9 +40,9 @@ redirect_from:
 
 课题组经费分充足，长期招收博士后、博士研究生、硕士研究生、实习生以及科研助理，欢迎感兴趣的同学来函咨询。
 
-研究生招生信息：https://ygl.cpu.edu.cn/gmis5/dsfc/dsfcgrxx/307CC2F4FCCC5D892D6BEA60C43CAE57
+研究生招生【官方】：https://ygl.cpu.edu.cn/gmis5/dsfc/dsfcgrxx/307CC2F4FCCC5D892D6BEA60C43CAE57
 
-博士后招聘信息：https://rcb.cpu.edu.cn/8a/80/c12099a232064/page.htm
+博士后招聘【官方】：https://rcb.cpu.edu.cn/8a/80/c12099a232064/page.htm
 
 主持基金
 ======
