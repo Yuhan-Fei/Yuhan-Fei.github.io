@@ -10,84 +10,74 @@ redirect_from:
 个人简介
 ======
 <p align="justify" >
-费宇涵，中国药科大学教授，博士生导师，人工智能药物研发课题组独立PI，入选南京市紫金山英才计划青拔项目第一层次，中国药科大学兴药领军学者高层次人才引进计划。2020年于南京农业大学获博士学位，2018-2020于哈佛医学院Scott G. Kennedy课题组进行博士联合培养项目，2021-2025年于清华大学张强锋课题组从事博士后研究，2025年正式加入中国药科大学药学院药物化学系，成立人工智能药物研发课题组并担任课题组组长。费宇涵博士拥有通信工程、计算机科学与技术、生物信息学及生物学等多学科专业背景，研究方向聚焦于“人工智能+生物医药”前沿交叉领域，并致力于人工智能驱动的药物发现与设计、多组学数据的生物信息学分析、高通量实验技术的开发与应用。
+费宇涵，中国药科大学教授，博士生导师，人工智能药物研发课题组独立PI，入选南京市紫金山英才计划青拔项目第一层次，中国药科大学兴药领军学者高层次人才引进计划。2020年12月于南京农业大学获博士学位，2018年-2020年于哈佛医学院Scott G. Kennedy课题组进行博士联合培养项目，2021-2025年于清华大学张强锋课题组从事博士后研究，2025年12月正式加入中国药科大学药学院药物化学系，成立人工智能药物研发课题组并担任课题组组长。费宇涵博士拥有通信工程、计算机科学与技术、生物信息学及生物学等多学科专业背景，研究方向聚焦于“人工智能+生物医药”前沿交叉领域，并致力于人工智能驱动的药物发现、多组学数据的生物信息学分析、高通量实验技术的开发与应用。
 </p>
 <p align="justify" >
-目前，以第一/通讯作者在Nature Biotechnology (2026)、Nature Methods (2022)、Nucleic Acids Research (2025)、Bioinformatics (2018, 2020)、RNA Biology (2021)等期刊上发表论文，并以项目合作者在 Nature (2020)、EMBO Journal (2021)、Genomics, Proteomics & Bioinformatics (2022)、Bioinformatics (2023)、Genetics (2020)等期刊上发表论文，主持国家自然科学基金面上项目、青年科学基金项目，北京市自然科学基金以及中国博士后科学基金等多项国家级和省部级科研项目，担任中国生物信息学会人工智能与生命科学专委会、基因组信息学专委会青年委员。
+目前，以第一作者及通讯作者在Nature Biotechnology (2026)、Nature Methods (2022)、Nucleic Acids Research (2025)、Bioinformatics (2018, 2020)等期刊上发表论文，并以项目合作者在 Nature (2020)、EMBO Journal (2021)、Genomics, Proteomics & Bioinformatics (2022)、Bioinformatics (2023)等期刊上发表论文，主持国家自然科学基金面上项目，国家自然科学基金青年科学基金项目，北京市自然科学基金面上专项以及中国博士后科学基金面上项目等多项国家级和省部级科研项目，担任中国生物信息学会人工智能与生命科学专委会、基因组信息学专委会青年委员。
 </p>
 
-Education
+课题组简介
 ======
-* 2018/02-2020/02  
-Joint Ph.D. in Biological and Biomedical Sciences, Harvard Medical School
-* 2016/09-2020/12  
-Ph.D. in Bioinformatics, Nanjing Agricultural University
-* 2014/09-2016/07  
-M.S. in Computer Science and Technology, Nanjing Agricultural University
-* 2010/09-2014/06  
-B.S. in Communication Engineering, Nanjing University of Posts and Telecommunications
+中国药科大学坐落于江苏省南京市，是一所教育部直属、国家“211”工程、“985工程优势学科创新平台”、“双一流”建设高校的知名学府。学校办学历史悠久、特色鲜明、学风优良、在国内外药学界享有盛誉。作为一所以药学为特色的多科性、研究型大学，学校建有完备的药学学科体系与一流的创新平台。根据ESI最新排名，其药理学与毒理学学科已进入全球前万分之一，位列全球第13位，亚洲高校第1位，彰显了卓越的学术影响力与国际竞争力。
 
-Professional Experience
+费宇涵课题组的研究围绕“人工智能+生物医药”这一前沿交叉领域，主要聚焦于癌症、传染病、罕见病等人类重大健康挑战，致力于探索药物研发与疾病治疗的新范式。课题组通过深度结合人工智能、生物信息学、分子和细胞生物学、生物物理学等等多学科手段，构建“干湿结合”的研究体系，以推动疾病精准防治新技术与新方法的开发。研究方向涵盖靶标发现、药物设计、药物合成与优化、功能验证等药物研发关键环节，具体包括但不限于：
+1. 靶向RNA的小分子药物的开发;
+2. 多肽和抗体类药物的设计;
+3. 线性和环状RNA疫苗的优化;
+4. 人工智能虚拟细胞的建模；
+5. 基于组学数据的靶标发现。
+
+学院官网：https://yxy.cpu.edu.cn/95/2b/c11941a234795/page.htm
+
+招生信息
 ======
-* 2025/12-Present  
-Professor, School of Pharmacy, China Pharmaceutical University
-* 2021/01-2025/06  
-Postdoc, School of Life Sciences, Tsinghua University
+课题组位于中国药科大学江宁校区，科研氛围开放包容，富有活力，注重探索性研究与交叉创新，拥有充足的CPU/GPU计算资源。与清华大学、北京大学、哈佛医学院等国内外一流高校和科研机构保持长期合作，表现突出的成员可推荐赴合作单位开展学术交流，诚挚欢迎对人工智能药物研发充满热忱的优秀青年人才加入：
+1. 学术博士招生专业：100701 药物化学-人工智能和计算机辅助药物设计
+2. 学术硕士招生专业：100701 药物化学-不限研究方向
+3. 专业硕士招生专业：105500-01 药学-药物合成与工艺优化
 
+*** 精通编程一种以上编程语言、熟练掌握深度学习模型开发框架、熟悉高通量测序技术者优先考虑。
 
-Research Interests
+课题组经费分充足，长期招收博士后、博士研究生、硕士研究生、实习生以及科研助理，欢迎感兴趣的同学来函咨询。职位和待遇详见: https://yuhan-fei.github.io/year-archive/
+
+研究生院官网：https://ygl.cpu.edu.cn/gmis5/dsfc/dsfcgrxx/307CC2F4FCCC5D892D6BEA60C43CAE57
+
+主持基金
 ======
-<p align="justify">
-Dr. Fei's group focuses on the frontier intersection of "Artificial Intelligence + Biomedicine", with an emphasis on addressing major global health challenges such as cancer, infectious diseases, and rare diseases, <i>etc</i>. The group is committed to exploring new paradigms in drug discovery and disease treatment. By integrating multidisciplinary approaches, including artificial intelligence, bioinformatics, molecular and cell biology, and biophysics, the group has established a "dry-wet combined" research system to advance the development of new methods and technologies for the precision prevention and treatment of disease. His group primarily focuses on the following directions:
-</p>
-1. Discovery of RNA-targeting small molecules
-2. Optimization of mRNA vaccines and circle RNAs
-3. Design of peptide- and antibody-based drugs
-4. Modeling of AI virtual cells
-5. Analysis of RNA structurome
+1. 国家自然科学基金-面上项目，2027/01-2030/12，主持
+2. 国家自然科学基金-青年科学基金项目（现青年科学基金项目C类），2022/01-2024/12，主持
+3. 北京市自然科学基金-面上专项项目，2023/01-2024/12，主持
+4. 中国博士后科学基金-第69批面上资助，2021/06-2023/06，主持
+5. 中国药科大学兴药领军学者高层次人才引进项目，2025/12-至今，主持
 
-<!--Dr. Fei's group is well-funded and continuously recruits postdoctoral fellows, doctoral students, master's students, interns, and research assistants. The group has established collaborations with Tsinghua University, Peking University, and Harvard Medical School. Exceptional candidates may be recommended for exchange opportunities. Interested individuals are welcome to join or contact us at yuhan.fei(AT)cpu.edu.cn for more information.-->
-
-
-School of Pharmacy Website: https://yxy.cpu.edu.cn/95/2b/c11941a234795/page.htm
-
-Graduate Programs
+发明专利
 ======
-<p align="justify">
-Dr. Fei's group is based at the Jiangning Campus of China Pharmaceutical University. We foster an open, inclusive, and dynamic research environment, with a strong emphasis on exploratory research and interdisciplinary innovation. The group is supported by abundant computational resources. We maintain long-term collaborations with leading academic and research institutions worldwide, including Tsinghua University, Peking University, and Harvard Medical School. Outstanding members may be recommended to these partner institutions for academic exchange. We warmly welcome highly motivated and talented young researchers with a strong interest in AI-driven drug discovery to join our team.
-</p>
-1. Ph.D. Program (Academic Degree): 100701 Medicinal Chemistry
-2. M.S. Program (Academic Degree): 100701 Medicinal Chemistry
-3. M.S. Program (Professional Degree): 105500-01 Pharmacy
-<p align="justify">
-* Candidates proficient in programming, experienced in deep learning frameworks, and familiar with high-throughput sequencing are preferred.
-</p>
-<p align="justify">
-Dr. Fei's group is well-funded and continuously recruits postdoctoral fellows, doctoral students, master's students, interns, and research assistants. Interested individuals are welcome to join or contact us for more information. For positions and benefits, please refer to https://yuhan-fei.github.io/year-archive/
-</p>
-Graduate School Website: https://ygl.cpu.edu.cn/gmis5/dsfc/dsfcgrxx/307CC2F4FCCC5D892D6BEA60C43CAE57
+1. 小分子和RNA互作关系的预测方法、系统、存储介质和设备，CN120199320A，2025
+2. 基于越界重置的参数列维化粒子群算法，CN106845629A，2017
 
-Fundings
+论文发表
 ======
-1. National Natural Science Foundation of China, 2027/01-2030/12
-2. National Natural Science Foundation of China, 2022/01-2024/12
-3. Beijing Natural Science Foundation, 2023/01-2024/12
-4. China Postdoctoral Science Foundation, 2021/06-2023/06
-5. China Pharmaceutical University’s Xingyao Leading Scholar Program, 2025/12-Present
+*: Co-first author, #: Corresponding author
 
-Patents
+1. <b>Fei Y *</b>, Wang P *, Zhang J *, Shan X, Cai Z, Ma J, Wang Y <sup>#</sup>, Zhang Q C <sup>#</sup>. Predicting small molecule–RNA interactions without RNA tertiary structures. <b><i>Nature Biotechnology</i></b>, 2026.
+2. Mu K *, <b>Fei Y *,<sup>#</sup></b>, Xu Y, Zhang Q C <sup>#</sup>. RASP v2.0: an updated atlas for RNA structure probing data. <b><i>Nucleic Acids Research</i></b>, 53(D1): D211–D219, 2025.
+3. Zhang J *, <b>Fei Y *</b>, Sun L <sup>#</sup>, Zhang Q C <sup>#</sup>. Advances and opportunities in RNA structure experimental determination and computational modeling. <b><i>Nature Methods</i></b>, 19(10): 1193–1207, 2022.
+4.	<b>Fei Y</b>, Feng J, Wang R, Zhang B, Zhang H, Huang J <sup>#</sup>. PhasiRNAnalyzer: an integrated analyser for plant phased siRNA. <b><i>RNA Biology</i></b>, 18(11): 1622–1629, 2021.
+5.	<b>Fei Y</b>, Mao Y, Shen C, Wang R, Zhang H, Huang J <sup>#</sup>. WPMIAS: Whole-degradome-based Plant MicroRNA-target Interaction Analysis Server. <b><i>Bioinformatics</i></b>, 36(6): 1937–1939, 2020.
+6.	<b>Fei Y</b>, Wang R, Li H, Liu S, Zhang H, Huang J <sup>#</sup>. DPMIND: degradome-based plant miRNA-target interaction and network database. <b><i>Bioinformatics</i></b>, 34(9): 1618–1620, 2018.
+7.	Zhang B, <b>Fei Y</b>, Feng J, Zhu X, Wang R, Xiao H, Zhang H, Huang J <sup>#</sup>. RiceNCexp: a rice non-coding RNA co-expression atlas based on massive RNA-seq and small-RNA seq data. <b><i>Journal of Experimental Botany</i></b>, 73(18): 6068–6077, 2022.
+8.	Wan G, Yan J, <b>Fei Y</b>, Pagano D J, Kennedy S <sup>#</sup>. A Conserved NRDE-2/MTR-4 Complex Mediates Nuclear RNAi in Caenorhabditis elegans <b><i>Genetics</i></b>, 216(4): 1071-1085, 2020.
+9.	Wang R, Yang Z, <b>Fei Y</b>, Feng J, Zhu H, Huang F, Zhang H, Huang J <sup>#</sup>. Construction and analysis of degradome-dependent microRNA regulatory networks in soybean. <b><i>BMC Genomics</i></b>, 20(1): 534, 2019.
+10. Shi B *, An K *, Wang Y, <b>Fei Y</b>, Guo C, Zhang Q C, Yang Y, Tian X, Kan Q <sup>#</sup>. RNA structural dynamics modulate EGFR-TKI resistance through controlling YRDC translation in NSCLC cells. <b><i>Genomics, Proteomics & Bioinformatics</i></b>, 21(4): 850–865, 2023.
+11.	Feng Z, Feng J, Zhang B, <b>Fei Y</b>, Zhang, H, Huang J <sup>#</sup>. PhasiHunter: a robust phased siRNA regulatory cascade mining tool based on multiple reference sequences. <b><i>Bioinformatics</i></b>, 39(11): btad676, 2023.
+12.	Shukla A *, Yan J *, Pagano D J, Dodson A E, <b>Fei Y</b>, Gorham J, Seidman J G, Wickens M, Kennedy S <sup>#</sup>. poly(UG)-tailed RNAs in genome protection and epigenetic inheritance. <b><i>Nature</i></b>, 582(7811): 283–288, 2020.
+13.	Wan G <sup>#</sup>, Bajaj L, Fields B, Dodson A E, Pagano D J, <b>Fei Y</b>, Kennedy S <sup>#</sup>. ZSP-1 is a Z Granule Surface Protein Required for Z Granule Fluidity and Germline Immortality in C. elegans. <b><i>EMBO Journal</i></b>, 40(3): e105612, 2021.
+
+其他任职情况
 ======
-1. Methods, Systems, Storage Media, and Devices for Predicting the Interaction between Small Molecules and RNA, CN202510263239.6, 2025
-2. Particle Swarm Optimization Algorithm with Cross-Border Reset Mechanism, CN201710073144.3, 2017
-
-
-Positions
-======
-1. Youth Member of the Committee on Artificial Intelligence and Life Sciences, Bioinformatics Society of China, 2023-Present
-2. Youth Member of the Committee on Bioinformatics and Genomics, Bioinformatics Society of China, 2023-Present
-3. Chair of the Graduate Student Association at the College of Information Science and Technology (Currently the College of Artificial Intelligence), Nanjing Agricultural University, 2015–2016
-
-
+1. 2023年-现在 中国生物信息学，人工智能与生命科学专委会，青年委员
+2. 2023年-现在 中国生物信息学，基因组信息学专委会，青年委员
+3. 2015-2016年 南京农业大学，信息科学技术学院（现人工智能学院），研究生会主席
 
 <!--
 Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured Markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various Markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
