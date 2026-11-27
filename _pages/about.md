@@ -46,11 +46,11 @@ redirect_from:
 
 主持基金
 ======
-1. 国家自然科学基金-面上项目，2027/01-2030/12，主持
-2. 国家自然科学基金-青年科学基金项目（现青年科学基金项目C类），2022/01-2024/12，主持
-3. 北京市自然科学基金-面上专项项目，2023/01-2024/12，主持
-4. 中国博士后科学基金-第69批面上资助，2021/06-2023/06，主持
-5. 中国药科大学兴药领军学者高层次人才引进项目，2025/12-至今，主持
+1. 国家自然科学基金-面上项目，82674925，2027/01-2030/12，主持
+2. 国家自然科学基金-青年科学基金项目，32100504，2022/01-2024/12，主持
+3. 北京市自然科学基金-面上专项项目，M23011，2023/01-2024/12，主持
+4. 中国博士后科学基金-第69批面上资助，2021M691811，2021/06-2023/06，主持
+5. 中国药科大学兴药领军学者高层次人才引进项目，2026/01-至今，主持
 
 发明专利
 ======
@@ -74,6 +74,7 @@ redirect_from:
 11.	Feng Z, Feng J, Zhang B, <b>Fei Y</b>, Zhang, H, Huang J <sup>#</sup>. PhasiHunter: a robust phased siRNA regulatory cascade mining tool based on multiple reference sequences. <b><i>Bioinformatics</i></b>, 39(11): btad676, 2023.
 12.	Shukla A *, Yan J *, Pagano D J, Dodson A E, <b>Fei Y</b>, Gorham J, Seidman J G, Wickens M, Kennedy S <sup>#</sup>. poly(UG)-tailed RNAs in genome protection and epigenetic inheritance. <b><i>Nature</i></b>, 582(7811): 283–288, 2020.
 13.	Wan G <sup>#</sup>, Bajaj L, Fields B, Dodson A E, Pagano D J, <b>Fei Y</b>, Kennedy S <sup>#</sup>. ZSP-1 is a Z Granule Surface Protein Required for Z Granule Fluidity and Germline Immortality in C. elegans. <b><i>EMBO Journal</i></b>, 40(3): e105612, 2021.
+等
 
 任职情况
 ======
