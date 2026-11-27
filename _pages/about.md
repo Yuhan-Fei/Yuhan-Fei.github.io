@@ -73,7 +73,7 @@ redirect_from:
 2. 基于越界重置的参数列维化粒子群算法，CN106845629A，2017
 
 
-
+<!--
 论文发表
 ======
 *: Co-first author, #: Corresponding author
@@ -117,13 +117,13 @@ redirect_from:
 13.	Wan G <sup>#</sup>, Bajaj L, Fields B, Dodson A E, Pagano D J, <b>Fei Y</b>, Kennedy S <sup>#</sup>. ZSP-1 is a Z Granule Surface Protein Required for Z Granule Fluidity and Germline Immortality in C. elegans. <b><i>EMBO Journal</i></b>, 40(3): e105612, 2021.
 </p>
 等
-
+-->
 
 
 任职情况
 ======
 1. 2023年-现在 中国生物信息学，人工智能与生命科学专委会，青年委员
 2. 2023年-现在 中国生物信息学，基因组信息学专委会，青年委员
-3. 2015-2016年 南京农业大学，信息科学技术学院（现人工智能学院），研究生会主席
+3. 2015-2016年 南京农业大学，信息科学技术学院（现智慧农业学院），研究生会主席
 
 
