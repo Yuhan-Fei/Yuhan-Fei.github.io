@@ -12,16 +12,13 @@ main:
     url: /publications/
     
   - title: "People (科研团队)"
-    url: /talks/   
+    url: /portfolio/   
   
   - title: "CV (个人简历)"
     url: /cv/     
     
   - title: "Join Us (加入我们)"
     url: /year-archive/
-
-  #- title: "News (新闻)"
-  #  url: /portfolio/
 
  
   #- title: "Talks & Awards"
