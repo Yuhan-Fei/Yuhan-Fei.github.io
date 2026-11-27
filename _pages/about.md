@@ -16,6 +16,7 @@ redirect_from:
 目前，以第一作者及通讯作者在Nature Biotechnology (2026)、Nature Methods (2022)、Nucleic Acids Research (2025)、Bioinformatics (2018, 2020)等期刊上发表论文，并以项目合作者在 Nature (2020)、EMBO Journal (2021)、Genomics, Proteomics & Bioinformatics (2022)、Bioinformatics (2023)等期刊上发表论文，主持国家自然科学基金面上项目，国家自然科学基金青年科学基金项目，北京市自然科学基金面上专项、中国博士后科学基金面上项目等科研项目，担任中国生物信息学会人工智能与生命科学专委会、基因组信息学专委会青年委员。
 </p>
 
+
 课题组简介
 ======
 <p align="justify" >
@@ -33,6 +34,7 @@ redirect_from:
 
 学院官网【官方】：https://yxy.cpu.edu.cn/95/2b/c11941a234795/page.htm
 
+
 招生信息
 ======
 <p align="justify" >
@@ -43,13 +45,14 @@ redirect_from:
 2. 学术硕士招生专业：100701 药物化学-不限研究方向
 3. 专业硕士招生专业：105500-01 药学-药物合成与工艺优化
 
-注：精通一种以上编程语言、熟练掌握深度学习模型开发框架、熟悉高通量测序技术者优先考虑。
+注：精通一种以上编程语言、熟练掌握深度学习模型开发、熟悉高通量测序技术者优先考虑。
 
 课题组经费分充足，长期招收博士后、博士研究生、硕士研究生、实习生以及科研助理，欢迎感兴趣的同学来函咨询。
 
 研究生招生【官方】：https://ygl.cpu.edu.cn/gmis5/dsfc/dsfcgrxx/307CC2F4FCCC5D892D6BEA60C43CAE57
 
 博士后招聘【官方】：https://rcb.cpu.edu.cn/8a/80/c12099a232064/page.htm
+
 
 主持基金
 ======
@@ -59,15 +62,17 @@ redirect_from:
 4. 中国博士后科学基金-第69批面上资助，2021M691811，2021/06-2023/06，主持
 5. 中国药科大学兴药领军学者高层次人才引进项目，2026/01-至今，主持
 
+
 发明专利
 ======
 1. 小分子和RNA互作关系的预测方法、系统、存储介质和设备，CN120199320A，2025
 2. 基于越界重置的参数列维化粒子群算法，CN106845629A，2017
 
+
 论文发表
 ======
 *: Co-first author, #: Corresponding author
-
+<p align="justify" >
 1. <b>Fei Y *</b>, Wang P *, Zhang J *, Shan X, Cai Z, Ma J, Wang Y <sup>#</sup>, Zhang Q C <sup>#</sup>. Predicting small molecule–RNA interactions without RNA tertiary structures. <b><i>Nature Biotechnology</i></b>, 2026.
 2. Mu K *, <b>Fei Y *,<sup>#</sup></b>, Xu Y, Zhang Q C <sup>#</sup>. RASP v2.0: an updated atlas for RNA structure probing data. <b><i>Nucleic Acids Research</i></b>, 53(D1): D211–D219, 2025.
 3. Zhang J *, <b>Fei Y *</b>, Sun L <sup>#</sup>, Zhang Q C <sup>#</sup>. Advances and opportunities in RNA structure experimental determination and computational modeling. <b><i>Nature Methods</i></b>, 19(10): 1193–1207, 2022.
@@ -82,6 +87,7 @@ redirect_from:
 12.	Shukla A *, Yan J *, Pagano D J, Dodson A E, <b>Fei Y</b>, Gorham J, Seidman J G, Wickens M, Kennedy S <sup>#</sup>. poly(UG)-tailed RNAs in genome protection and epigenetic inheritance. <b><i>Nature</i></b>, 582(7811): 283–288, 2020.
 13.	Wan G <sup>#</sup>, Bajaj L, Fields B, Dodson A E, Pagano D J, <b>Fei Y</b>, Kennedy S <sup>#</sup>. ZSP-1 is a Z Granule Surface Protein Required for Z Granule Fluidity and Germline Immortality in C. elegans. <b><i>EMBO Journal</i></b>, 40(3): e105612, 2021.
 等
+</p>
 
 任职情况
 ======
